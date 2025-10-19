@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "GoldHead Idle"
+    },
+    {
+      "offsets": [
+        10,
+        -120
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singDOWN",
+      "loop": false,
+      "name": "GoldHead DOwn full"
+    },
+    {
+      "offsets": [
+        -10,
+        260
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singUP",
+      "loop": false,
+      "name": "GoldHead Up"
+    },
+    {
+      "offsets": [
+        400,
+        40
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singLEFT",
+      "loop": false,
+      "name": "GoldHead Left Full"
+    },
+    {
+      "offsets": [
+        -140,
+        90
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "singRIGHT",
+      "loop": false,
+      "name": "GoldHead Right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/gold/GoldHead Sheet",
+  "position": [
+    -25,
+    15
+  ],
+  "healthicon": "gold",
+  "flip_x": false,
+  "healthbar_colors": [
+    255,
+    255,
+    255
+  ],
+  "camera_position": [
+    -317,
+    30
+  ],
+  "sing_duration": 6.1,
+  "scale": 1.4
+}

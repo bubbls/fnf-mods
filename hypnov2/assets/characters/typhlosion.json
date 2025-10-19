@@ -1,0 +1,45 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "TYPHLOSION IDLE",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "fire",
+      "fps": 24,
+      "name": "TYPHLOSION MECHANIC",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/gold/TYPHLOSION_MECHANIC",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "face",
+  "flip_x": false,
+  "healthbar_colors": [
+    165,
+    0,
+    77
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

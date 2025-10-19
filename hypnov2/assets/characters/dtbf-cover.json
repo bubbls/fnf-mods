@@ -1,0 +1,89 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 32,
+      "anim": "idle",
+      "indices": [],
+      "name": "dtbf cover idle"
+    },
+    {
+      "offsets": [
+        -4,
+        18
+      ],
+      "loop": false,
+      "fps": 12,
+      "anim": "singUP",
+      "indices": [],
+      "name": "dtbf cover up"
+    },
+    {
+      "offsets": [
+        1,
+        -8
+      ],
+      "loop": false,
+      "fps": 12,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "dtbf cover down"
+    },
+    {
+      "offsets": [
+        2,
+        1
+      ],
+      "loop": false,
+      "fps": 12,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "dtbf cover left"
+    },
+    {
+      "offsets": [
+        -7,
+        -1
+      ],
+      "loop": false,
+      "fps": 12,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "dtbf cover right"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "coverup",
+      "fps": 24,
+      "name": "dtbf cover cover",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "real/dtbf cover",
+  "position": [
+    140,
+    190
+  ],
+  "healthicon": "bf",
+  "flip_x": true,
+  "healthbar_colors": [
+    49,
+    176,
+    209
+  ],
+  "camera_position": [
+    -550,
+    -150
+  ],
+  "sing_duration": 6.1,
+  "scale": 0.8
+}

@@ -1,0 +1,173 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -60,
+        -66
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Hypno Down"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "Hypno Idle"
+    },
+    {
+      "offsets": [
+        -126,
+        22
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Hypno Left"
+    },
+    {
+      "offsets": [
+        -172,
+        137
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Hypno Up"
+    },
+    {
+      "offsets": [
+        -151,
+        70
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Hypno Right"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hypno/PASTA_HYPNO",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "hypno-cards",
+  "flip_x": true,
+  "healthbar_colors": [
+    249,
+    223,
+    68
+  ],
+  "camera_position": [
+    -600,
+    100
+  ],
+  "sing_duration": 6.1,
+  "scale": 1.5
+}

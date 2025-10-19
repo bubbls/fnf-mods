@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bronzong_Gong_mechanic.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="green hold piece0000" x="5" y="5" width="98" height="45"/>
+	<SubTexture name="green hold piece0001" x="5" y="5" width="98" height="45"/>
+	<SubTexture name="green hold piece0002" x="5" y="5" width="98" height="45"/>
+	<SubTexture name="green hold piece0003" x="5" y="5" width="98" height="45"/>
+	<SubTexture name="green hold piece0004" x="5" y="5" width="98" height="45"/>
+	<SubTexture name="green0000" x="108" y="5" width="357" height="83" frameX="-123" frameY="-26" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green0001" x="470" y="5" width="361" height="109" frameX="-123" frameY="0" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green0002" x="470" y="5" width="361" height="109" frameX="-123" frameY="0" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green0003" x="5" y="119" width="360" height="98" frameX="-120" frameY="-11" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green0004" x="5" y="119" width="360" height="98" frameX="-120" frameY="-11" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green confirm0000" x="370" y="119" width="497" height="64" frameX="-50" frameY="-51" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green confirm0001" x="5" y="222" width="476" height="64" frameX="-63" frameY="-51" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green confirm0002" x="486" y="222" width="417" height="68" frameX="-91" frameY="-47" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green confirm0003" x="5" y="295" width="391" height="73" frameX="-105" frameY="-42" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green confirm0004" x="401" y="295" width="353" height="88" frameX="-127" frameY="-23" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green press0000" x="5" y="388" width="398" height="52" frameX="-106" frameY="-60" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green press0001" x="5" y="388" width="398" height="52" frameX="-106" frameY="-60" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green press0002" x="408" y="388" width="380" height="55" frameX="-114" frameY="-57" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green press0003" x="5" y="448" width="345" height="72" frameX="-129" frameY="-40" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green press0004" x="355" y="448" width="354" height="58" frameX="-124" frameY="-54" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green press0005" x="355" y="448" width="354" height="58" frameX="-124" frameY="-54" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green press0006" x="355" y="448" width="354" height="58" frameX="-124" frameY="-54" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green press0007" x="355" y="448" width="354" height="58" frameX="-124" frameY="-54" frameWidth="497" frameHeight="115"/>
+	<SubTexture name="green hold end0000" x="714" y="448" width="98" height="82"/>
+	<SubTexture name="green hold end0001" x="714" y="448" width="98" height="82"/>
+	<SubTexture name="green hold end0002" x="714" y="448" width="98" height="82"/>
+	<SubTexture name="green hold end0003" x="714" y="448" width="98" height="82"/>
+	<SubTexture name="green hold end0004" x="714" y="448" width="98" height="82"/>
+</TextureAtlas>

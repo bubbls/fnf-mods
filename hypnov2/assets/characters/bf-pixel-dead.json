@@ -1,0 +1,34 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "firstDeath",
+      "indices": [],
+      "name": "bf_misngno_death"
+    }
+  ],
+  "no_antialiasing": true,
+  "image": "characters/death/BF_Death_Missingno",
+  "position": [
+    0,
+    350
+  ],
+  "healthicon": "bf-pixel",
+  "flip_x": true,
+  "healthbar_colors": [
+    123,
+    214,
+    246
+  ],
+  "camera_position": [
+    50,
+    -60
+  ],
+  "sing_duration": 4,
+  "scale": 6
+}

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dawn.png">
+<SubTexture name="dawn idle0000" x="326" y="390" width="329" height="374" frameX="-2" frameY="0" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0001" x="971" y="0" width="329" height="374" frameX="-2" frameY="0" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0002" x="971" y="0" width="329" height="374" frameX="-2" frameY="0" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0003" x="971" y="374" width="329" height="374" frameX="-2" frameY="0" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0004" x="1632" y="373" width="329" height="372" frameX="-2" frameY="-2" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0005" x="1632" y="745" width="329" height="372" frameX="-2" frameY="-2" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0006" x="1632" y="745" width="329" height="372" frameX="-2" frameY="-2" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0007" x="1632" y="745" width="329" height="372" frameX="-2" frameY="-2" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0008" x="1632" y="373" width="329" height="372" frameX="-2" frameY="-2" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0009" x="335" y="1524" width="330" height="372" frameX="-1" frameY="-2" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0010" x="335" y="1524" width="330" height="372" frameX="-1" frameY="-2" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0011" x="335" y="1524" width="330" height="372" frameX="-1" frameY="-2" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0012" x="322" y="1150" width="330" height="373" frameX="-1" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0013" x="322" y="1150" width="330" height="373" frameX="-1" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0014" x="322" y="1150" width="330" height="373" frameX="-1" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0015" x="652" y="1150" width="330" height="373" frameX="-1" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0016" x="652" y="1150" width="330" height="373" frameX="-1" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0017" x="982" y="1150" width="329" height="373" frameX="-2" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0018" x="1632" y="0" width="329" height="373" frameX="-2" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0019" x="1632" y="0" width="329" height="373" frameX="-2" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0020" x="1632" y="0" width="329" height="373" frameX="-2" frameY="-1" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0021" x="0" y="776" width="329" height="374" frameX="-2" frameY="0" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0022" x="0" y="776" width="329" height="374" frameX="-2" frameY="0" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn idle0023" x="0" y="776" width="329" height="374" frameX="-2" frameY="0" frameWidth="332" frameHeight="375" />
+<SubTexture name="dawn left0000" x="0" y="1524" width="335" height="373" frameX="0" frameY="-1" frameWidth="335" frameHeight="374" />
+<SubTexture name="dawn left0001" x="329" y="776" width="333" height="374" frameX="0" frameY="0" frameWidth="335" frameHeight="374" />
+<SubTexture name="dawn left0002" x="662" y="776" width="332" height="374" frameX="-1" frameY="0" frameWidth="335" frameHeight="374" />
+<SubTexture name="dawn left0003" x="1300" y="0" width="332" height="374" frameX="-1" frameY="0" frameWidth="335" frameHeight="374" />
+<SubTexture name="dawn right0000" x="1300" y="374" width="321" height="374" frameX="-1" frameY="0" frameWidth="323" frameHeight="374" />
+<SubTexture name="dawn right0001" x="1300" y="748" width="323" height="374" frameX="0" frameY="0" frameWidth="323" frameHeight="374" />
+<SubTexture name="dawn right0002" x="0" y="1150" width="322" height="374" frameX="0" frameY="0" frameWidth="323" frameHeight="374" />
+<SubTexture name="dawn down0000" x="1961" y="0" width="341" height="345" frameX="0" frameY="-2" frameWidth="341" frameHeight="347" />
+<SubTexture name="dawn down0001" x="1343" y="1524" width="338" height="346" frameX="-2" frameY="-1" frameWidth="341" frameHeight="347" />
+<SubTexture name="dawn down0002" x="665" y="1524" width="339" height="347" frameX="-2" frameY="0" frameWidth="341" frameHeight="347" />
+<SubTexture name="dawn down0003" x="1004" y="1524" width="339" height="347" frameX="-2" frameY="0" frameWidth="341" frameHeight="347" />
+<SubTexture name="dawn up0000" x="0" y="0" width="323" height="390" frameX="-3" frameY="0" frameWidth="326" frameHeight="391" />
+<SubTexture name="dawn up0001" x="323" y="0" width="323" height="386" frameX="-1" frameY="-5" frameWidth="326" frameHeight="391" />
+<SubTexture name="dawn up0002" x="646" y="0" width="325" height="386" frameX="0" frameY="-5" frameWidth="326" frameHeight="391" />
+<SubTexture name="dawn up0003" x="0" y="390" width="326" height="386" frameX="0" frameY="-5" frameWidth="326" frameHeight="391" />
+</TextureAtlas>

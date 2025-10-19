@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "idle",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        3,
+        -20
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "left",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -34
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "down",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        10,
+        21
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "up",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -11,
+        5
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "right",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/dissension/alt_steven_pov",
+  "position": [
+    0,
+    400
+  ],
+  "healthicon": "steven",
+  "flip_x": false,
+  "healthbar_colors": [
+    179,
+    0,
+    0
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 1.5
+}

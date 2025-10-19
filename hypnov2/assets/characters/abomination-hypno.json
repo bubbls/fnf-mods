@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -2,
+        -211
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "down",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -5,
+        181
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "up",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -3,
+        -27
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "right",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        115,
+        -69
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "left",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle",
+      "fps": 19,
+      "name": "idle",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hypno/ABOMINATION_HYPNO",
+  "position": [
+    850,
+    -200
+  ],
+  "healthicon": "hypno2",
+  "flip_x": false,
+  "healthbar_colors": [
+    249,
+    223,
+    68
+  ],
+  "camera_position": [
+    -200,
+    200
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

@@ -1,0 +1,227 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        14,
+        18
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "hurt",
+      "indices": [],
+      "name": "BF hit"
+    },
+    {
+      "offsets": [
+        -4,
+        0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "scared",
+      "indices": [],
+      "name": "BF idle shaking"
+    },
+    {
+      "offsets": [
+        -10,
+        -16
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "dodge",
+      "indices": [],
+      "name": "boyfriend dodge"
+    },
+    {
+      "offsets": [
+        294,
+        267
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "attack",
+      "indices": [],
+      "name": "boyfriend attack"
+    },
+    {
+      "offsets": [
+        -40,
+        -40
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "pre-attack",
+      "indices": [],
+      "name": "bf pre attack"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "scream",
+      "indices": [],
+      "name": "BF_AURGH"
+    },
+    {
+      "offsets": [
+        10,
+        -9
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "BF_Left Miss"
+    },
+    {
+      "offsets": [
+        15,
+        1
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "BF_Down Miss"
+    },
+    {
+      "offsets": [
+        32,
+        -34
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "BF_Up Miss"
+    },
+    {
+      "offsets": [
+        40,
+        -16
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "BF_Right Miss"
+    },
+    {
+      "offsets": [
+        21,
+        -12
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "BF_Idle"
+    },
+    {
+      "offsets": [
+        14,
+        -4
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "BF_Down"
+    },
+    {
+      "offsets": [
+        34,
+        -12
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "BF_Right"
+    },
+    {
+      "offsets": [
+        12,
+        -20
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "BF_Left"
+    },
+    {
+      "offsets": [
+        11,
+        -33
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "BF_Up"
+    },
+    {
+      "offsets": [
+        20,
+        -20
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "Yeet",
+      "loop": false,
+      "name": "BF_Ball_Throw"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/bf/ba_BF_assets",
+  "position": [
+    520,
+    440
+  ],
+  "healthicon": "bf",
+  "flip_x": true,
+  "healthbar_colors": [
+    49,
+    176,
+    209
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 2.2
+}

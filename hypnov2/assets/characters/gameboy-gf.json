@@ -1,0 +1,188 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -3,
+        5
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "hey",
+      "indices": [],
+      "name": "BF HEY"
+    },
+    {
+      "offsets": [
+        14,
+        18
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "hurt",
+      "indices": [],
+      "name": "BF hit"
+    },
+    {
+      "offsets": [
+        -4,
+        0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "scared",
+      "indices": [],
+      "name": "BF idle shaking"
+    },
+    {
+      "offsets": [
+        -10,
+        -16
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "dodge",
+      "indices": [],
+      "name": "boyfriend dodge"
+    },
+    {
+      "offsets": [
+        294,
+        267
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "attack",
+      "indices": [],
+      "name": "boyfriend attack"
+    },
+    {
+      "offsets": [
+        -40,
+        -40
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "pre-attack",
+      "indices": [],
+      "name": "bf pre attack"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        407,
+        169
+      ],
+      "anim": "singLEFTmiss",
+      "fps": 24,
+      "name": "boyfriend lef miss",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        54,
+        108
+      ],
+      "anim": "singDOWNmiss",
+      "fps": 24,
+      "name": "boyfriend dow miss",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        225,
+        356
+      ],
+      "anim": "singUPmiss",
+      "fps": 24,
+      "name": "boyfriend u miss",
+      "indices": []
+    },
+    {
+      "offsets": [
+        66,
+        202
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "boyfriend righ miss"
+    },
+    {
+      "offsets": [
+        128,
+        4
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "RedLeft"
+    },
+    {
+      "offsets": [
+        44,
+        -13
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "RedDown"
+    },
+    {
+      "offsets": [
+        108,
+        20
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "RedUp"
+    },
+    {
+      "offsets": [
+        -3,
+        18
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "RedRight"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        45,
+        -2
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "Lmao",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/red/FUCKKKKK",
+  "position": [
+    1780,
+    650
+  ],
+  "healthicon": "glitchy-red",
+  "flip_x": false,
+  "healthbar_colors": [
+    129,
+    60,
+    80
+  ],
+  "camera_position": [
+    -190,
+    90
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

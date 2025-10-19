@@ -1,0 +1,220 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        6,
+        18
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "turn",
+      "indices": [],
+      "name": "Pico Turn0"
+    },
+    {
+      "offsets": [
+        6,
+        18
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "turn-reverse",
+      "indices": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "name": "Pico Turn0"
+    },
+    {
+      "offsets": [
+        27,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "knife-out",
+      "indices": [],
+      "name": "Knife out0"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -2,
+        30
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "PICO UP0",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        133,
+        -49
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "PICO DOWN0",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        11,
+        -10
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "PICO LEFT 0",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -9,
+        -3
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "PICO RIGHT0",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        5,
+        35
+      ],
+      "anim": "singLEFTmiss",
+      "fps": 24,
+      "name": "pico miss left0",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -9,
+        -3
+      ],
+      "anim": "singRIGHTmiss",
+      "fps": 24,
+      "name": "pico right miss0",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -2,
+        28
+      ],
+      "anim": "singUPmiss",
+      "fps": 24,
+      "name": "pico miss up0",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        134,
+        -36
+      ],
+      "anim": "singDOWNmiss",
+      "fps": 24,
+      "name": "pico miss down0",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle-alt",
+      "fps": 24,
+      "name": "Pico_idle_010",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle-alt-loop",
+      "fps": 24,
+      "name": "Pico_idle_010",
+      "indices": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "offsets": [
+        25,
+        -9
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Pico Idle dance0"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "purin/Full_pico_purin",
+  "position": [
+    88,
+    279
+  ],
+  "healthicon": "pico",
+  "flip_x": true,
+  "healthbar_colors": [
+    255,
+    109,
+    33
+  ],
+  "camera_position": [
+    40,
+    0
+  ],
+  "sing_duration": 4.00000000000001,
+  "scale": 1
+}

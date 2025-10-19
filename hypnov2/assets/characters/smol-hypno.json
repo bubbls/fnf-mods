@@ -1,0 +1,268 @@
+{
+  "animations": [
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle-loop",
+      "fps": 24,
+      "name": "Dad idle dance",
+      "indices": [
+        10,
+        11,
+        12,
+        12
+      ]
+    },
+    {
+      "loop": true,
+      "offsets": [
+        -9,
+        10
+      ],
+      "anim": "singLEFT-loop",
+      "fps": 24,
+      "name": "Dad Sing Note LEFT",
+      "indices": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        27
+      ],
+      "anim": "singRIGHT-loop",
+      "fps": 24,
+      "name": "Dad Sing Note RIGHT",
+      "indices": [
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "loop": true,
+      "offsets": [
+        -6,
+        50
+      ],
+      "anim": "singUP-loop",
+      "fps": 24,
+      "name": "Dad Sing Note UP",
+      "indices": [
+        56,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "offsets": [
+        -9,
+        10
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "Smol H Left"
+    },
+    {
+      "offsets": [
+        -40,
+        13
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "Smol H Down"
+    },
+    {
+      "offsets": [
+        -26,
+        30
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "Smol H Up"
+    },
+    {
+      "offsets": [
+        -50,
+        17
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "Smol H Right"
+    },
+    {
+      "offsets": [
+        138,
+        84
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "Smol H Left Miss"
+    },
+    {
+      "offsets": [
+        60,
+        100
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "Smol H Down Miss"
+    },
+    {
+      "offsets": [
+        20,
+        190
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "Smol H Up Miss"
+    },
+    {
+      "offsets": [
+        40,
+        120
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "Smol H Right Miss"
+    },
+    {
+      "offsets": [
+        -30,
+        26
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "idle",
+      "loop": true,
+      "name": "Smol H Idle"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/hypno/Smol_Hypno_Sprites",
+  "position": [
+    150,
+    30
+  ],
+  "healthicon": "SHI",
+  "flip_x": true,
+  "healthbar_colors": [
+    255,
+    255,
+    6
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

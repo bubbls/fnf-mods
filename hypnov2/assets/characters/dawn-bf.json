@@ -1,0 +1,463 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        3,
+        0
+      ],
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -19
+      ],
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "GF left note"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -20
+      ],
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "GF Down Note"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        4
+      ],
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "GF Up Note"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -20
+      ],
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "GF Right Note"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -19
+      ],
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "GF left note"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -20
+      ],
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "GF Down Note"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        4
+      ],
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "GF Up Note"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -20
+      ],
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "GF Right Note"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "transition",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "idle-cover",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singLEFT-cover",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singRIGHT-cover",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singUP-cover",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singDOWN-cover",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "transform",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "idle-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singLEFT-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singLEFTmiss-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singRIGHT-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singRIGHTmiss-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singUP-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singUPmiss-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singDOWN-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singDOWNmiss-transformed",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "idle-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singLEFT-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singLEFTmiss-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singRIGHT-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singRIGHTmiss-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singUP-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singUPmiss-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singDOWN-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singDOWNmiss-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "transition-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "idle-cover-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singLEFT-cover-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singRIGHT-cover-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singUP-cover-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singDOWN-cover-boyfriend",
+      "indices": [],
+      "name": "GF Cheer"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/GF_assets",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "dawn",
+  "flip_x": false,
+  "healthbar_colors": [
+    165,
+    0,
+    77
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}
