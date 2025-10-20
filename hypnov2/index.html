@@ -73,7 +73,53 @@
 	<div id="openfl-content"></div>
 	
 	<script type="text/javascript">
-		lime.embed ("PsychEngine", "openfl-content", 1280, 720, { parameters: {} });
+		// Defensive startup: wait for DOM and for lime to be ready, then call embed.
+		// This prevents an immediate crash if the engine hasn't initialized yet
+		// and captures errors for easier debugging.
+		(function() {
+			function logError(e) {
+				try {
+					console.error("Game startup error:", e);
+				} catch (err) {}
+			}
+
+			window.addEventListener('error', function(ev) {
+				logError(ev.error || ev.message || ev);
+			});
+
+			window.addEventListener('unhandledrejection', function(ev) {
+				logError(ev.reason || ev);
+			});
+
+			function startGame() {
+				if (window.lime && typeof window.lime.embed === 'function') {
+					try {
+						window.lime.embed("PsychEngine", "openfl-content", 1280, 720, { parameters: {} });
+					} catch (e) {
+						logError(e);
+						var el = document.getElementById('openfl-content');
+						if (el) el.textContent = 'Error starting game: ' + (e && e.message ? e.message : e);
+					}
+				} else {
+					// If lime isn't ready yet, retry a few times spaced out to give it time to initialize.
+					// This avoids throwing when the engine script executes later.
+					var tries = startGame._tries = (startGame._tries || 0) + 1;
+					if (tries <= 50) {
+						setTimeout(startGame, 100);
+					} else {
+						console.error('lime.embed not available after retries:', window.lime);
+						var el = document.getElementById('openfl-content');
+						if (el) el.textContent = 'Game failed to start: engine not initialized.';
+					}
+				}
+			}
+
+			if (document.readyState === 'complete' || document.readyState === 'interactive') {
+				startGame();
+			} else {
+				document.addEventListener('DOMContentLoaded', startGame);
+			}
+		})();
 	</script>
 	
 	<!-- You can find the sources of the game on the website gamebanana.com -->
