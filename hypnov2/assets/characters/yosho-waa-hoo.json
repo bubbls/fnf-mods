@@ -1,0 +1,89 @@
+{
+  "animations": [
+    {
+      "loop": true,
+      "offsets": [
+        -50,
+        -80
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "IdleDance",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        354,
+        -73
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "LeftNote",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        121,
+        107
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "UpNote",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        81,
+        -339
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "DownNote",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -194,
+        -62
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "RightNote",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        14,
+        -62
+      ],
+      "anim": "spin",
+      "fps": 24,
+      "name": "Spin",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "mokey assets/YoshoWaaHoo_SuperAssets",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "yosho-waa-hoo",
+  "flip_x": false,
+  "healthbar_colors": [
+    175,
+    55,
+    55
+  ],
+  "camera_position": [
+    -270,
+    185
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

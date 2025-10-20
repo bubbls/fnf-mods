@@ -1,0 +1,89 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        232,
+        -303
+      ],
+      "loop": false,
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "LeftNote",
+      "indices": []
+    },
+    {
+      "offsets": [
+        200,
+        -318
+      ],
+      "loop": false,
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "DownNote",
+      "indices": []
+    },
+    {
+      "offsets": [
+        94,
+        -159
+      ],
+      "loop": false,
+      "anim": "singUP",
+      "fps": 24,
+      "name": "UpNote",
+      "indices": []
+    },
+    {
+      "offsets": [
+        41,
+        -311
+      ],
+      "loop": false,
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "RightNote",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        130,
+        -301
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "IdleDance",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        170,
+        -340
+      ],
+      "anim": "scream",
+      "fps": 24,
+      "name": "ScreamLOL",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "mokey assets/RealisticPelon_ASSETS",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "realistic-pelon",
+  "flip_x": false,
+  "healthbar_colors": [
+    0,
+    0,
+    0
+  ],
+  "camera_position": [
+    -350,
+    405
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

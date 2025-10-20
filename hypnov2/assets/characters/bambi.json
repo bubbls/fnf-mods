@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -100,
+        -440
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "Idle",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -98,
+        -429
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "left",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -110,
+        -470
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "down",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -56,
+        -420
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "up",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -141,
+        -436
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "right",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/bambiRemake",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "bambi",
+  "flip_x": false,
+  "healthbar_colors": [
+    12,
+    181,
+    0
+  ],
+  "camera_position": [
+    -90,
+    525
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

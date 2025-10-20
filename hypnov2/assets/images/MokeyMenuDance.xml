@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MokeyMenuDance.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MokeyMenuDance0000" x="0" y="0" width="920" height="352" frameX="0" frameY="-70" frameWidth="920" frameHeight="422"/>
+	<SubTexture name="MokeyMenuDance0001" x="0" y="0" width="920" height="352" frameX="0" frameY="-70" frameWidth="920" frameHeight="422"/>
+	<SubTexture name="MokeyMenuDance0002" x="920" y="0" width="920" height="413" frameX="0" frameY="-9" frameWidth="920" frameHeight="422"/>
+	<SubTexture name="MokeyMenuDance0003" x="920" y="0" width="920" height="413" frameX="0" frameY="-9" frameWidth="920" frameHeight="422"/>
+	<SubTexture name="MokeyMenuDance0004" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0005" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0006" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0007" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0008" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0009" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0010" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0011" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0012" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0013" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0014" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0015" x="0" y="0" width="920" height="352" frameX="0" frameY="-70" frameWidth="920" frameHeight="422"/>
+	<SubTexture name="MokeyMenuDance0016" x="0" y="0" width="920" height="352" frameX="0" frameY="-70" frameWidth="920" frameHeight="422"/>
+	<SubTexture name="MokeyMenuDance0017" x="920" y="0" width="920" height="413" frameX="0" frameY="-9" frameWidth="920" frameHeight="422"/>
+	<SubTexture name="MokeyMenuDance0018" x="920" y="0" width="920" height="413" frameX="0" frameY="-9" frameWidth="920" frameHeight="422"/>
+	<SubTexture name="MokeyMenuDance0019" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0020" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0021" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0022" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0023" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0024" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0025" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0026" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0027" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0028" x="0" y="413" width="920" height="422"/>
+	<SubTexture name="MokeyMenuDance0029" x="0" y="413" width="920" height="422"/>
+</TextureAtlas>

@@ -13,7 +13,7 @@
     },
     {
       "offsets": [
-        5,
+        12,
         -6
       ],
       "loop": false,
@@ -24,8 +24,8 @@
     },
     {
       "offsets": [
-        -20,
-        -51
+        -10,
+        -50
       ],
       "loop": false,
       "fps": 24,
@@ -35,7 +35,7 @@
     },
     {
       "offsets": [
-        -46,
+        -29,
         27
       ],
       "loop": false,
@@ -46,7 +46,7 @@
     },
     {
       "offsets": [
-        -48,
+        -38,
         -7
       ],
       "loop": false,
@@ -57,8 +57,8 @@
     },
     {
       "offsets": [
-        7,
-        19
+        12,
+        24
       ],
       "loop": false,
       "fps": 24,
@@ -68,7 +68,7 @@
     },
     {
       "offsets": [
-        -15,
+        -11,
         -19
       ],
       "loop": false,
@@ -79,7 +79,7 @@
     },
     {
       "offsets": [
-        -46,
+        -29,
         27
       ],
       "loop": false,
@@ -90,8 +90,8 @@
     },
     {
       "offsets": [
-        -44,
-        22
+        -30,
+        21
       ],
       "loop": false,
       "fps": 24,
@@ -112,7 +112,7 @@
     },
     {
       "offsets": [
-        14,
+        15,
         18
       ],
       "loop": false,
@@ -134,13 +134,46 @@
     },
     {
       "offsets": [
-        -10,
-        -16
+        37,
+        11
       ],
       "loop": false,
       "fps": 24,
-      "anim": "dodge",
+      "anim": "firstDeath",
       "indices": [],
+      "name": "BF dies"
+    },
+    {
+      "offsets": [
+        37,
+        5
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "deathLoop",
+      "indices": [],
+      "name": "BF Dead Loop"
+    },
+    {
+      "offsets": [
+        37,
+        69
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "deathConfirm",
+      "indices": [],
+      "name": "BF Dead confirm"
+    },
+    {
+      "offsets": [
+        -10,
+        -16
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "dodge",
+      "loop": false,
       "name": "boyfriend dodge"
     },
     {
@@ -148,10 +181,10 @@
         294,
         267
       ],
-      "loop": false,
+      "indices": [],
       "fps": 24,
       "anim": "attack",
-      "indices": [],
+      "loop": false,
       "name": "boyfriend attack"
     },
     {
@@ -159,10 +192,10 @@
         -40,
         -40
       ],
-      "loop": false,
+      "indices": [],
       "fps": 24,
       "anim": "pre-attack",
-      "indices": [],
+      "loop": false,
       "name": "bf pre attack"
     }
   ],

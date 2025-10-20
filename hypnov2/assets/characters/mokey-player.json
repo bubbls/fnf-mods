@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -200,
+        -274
+      ],
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "LeftMOKEY"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        2,
+        -437
+      ],
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "DownMokey"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -83,
+        -26
+      ],
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "UpMOKEY"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        76,
+        -313
+      ],
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "RightMokey"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        -10,
+        -331
+      ],
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "IdleMokey"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/Mokey_AAAAssets",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "mokey",
+  "flip_x": false,
+  "healthbar_colors": [
+    55,
+    55,
+    55
+  ],
+  "camera_position": [
+    -110,
+    445
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

@@ -1,0 +1,10 @@
+{
+  "confirm_anim": "UpMOKEY",
+  "idle_anim": "IdleMokey",
+  "position": [
+    -765,
+    -391
+  ],
+  "scale": 0.35,
+  "image": "Menu_Mokey"
+}

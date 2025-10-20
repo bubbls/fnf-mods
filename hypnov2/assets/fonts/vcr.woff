@@ -6,7 +6,7 @@ FNFHUB
 </title>
 <meta name="action-cable-url" content="/cable" />
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="_xKjcEc5r-zsWV1z8qb7jaOs422oIdEH3opvQ5K1KYv-BN6e8qSbojjFJmI9JT7QEKTI2ppx9oYMrTZvfhvSqw" />
+<meta name="csrf-token" content="xX9CvB2O0BVS4ILyh8u_sg5zfUfZP6Rwv4LuMmttTe_EaT9SqBPkW4Z8-eNISHrvvXtW8Otvg_Ftpbceh8O2zw" />
 
 <meta content='width=device-width,initial-scale=1' name='viewport'>
 <link rel="stylesheet" href="/assets/application-3c8e15f40f6aaf5f185bb57ee2f34a653664b549c6906315e636dd40624afda5.css" media="all" data-turbo-track="reload" />

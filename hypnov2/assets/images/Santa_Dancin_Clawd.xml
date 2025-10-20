@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Santa_Dancin_Clawd.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SantaClaws0000" x="0" y="0" width="773" height="834" frameX="-87" frameY="-22" frameWidth="1003" frameHeight="929"/>
+	<SubTexture name="SantaClaws0001" x="0" y="0" width="773" height="834" frameX="-87" frameY="-22" frameWidth="1003" frameHeight="929"/>
+	<SubTexture name="SantaClaws0002" x="773" y="0" width="849" height="903" frameX="0" frameY="-5" frameWidth="1003" frameHeight="929"/>
+	<SubTexture name="SantaClaws0003" x="773" y="0" width="849" height="903" frameX="0" frameY="-5" frameWidth="1003" frameHeight="929"/>
+	<SubTexture name="SantaClaws0004" x="0" y="903" width="773" height="834" frameX="-104" frameY="-22" frameWidth="1003" frameHeight="929"/>
+	<SubTexture name="SantaClaws0005" x="0" y="903" width="773" height="834" frameX="-104" frameY="-22" frameWidth="1003" frameHeight="929"/>
+	<SubTexture name="SantaClaws0006" x="773" y="903" width="877" height="929" frameX="-126" frameY="0" frameWidth="1003" frameHeight="929"/>
+	<SubTexture name="SantaClaws0007" x="773" y="903" width="877" height="929" frameX="-126" frameY="0" frameWidth="1003" frameHeight="929"/>
+</TextureAtlas>

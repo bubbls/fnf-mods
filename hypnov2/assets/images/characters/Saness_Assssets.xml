@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Saness_Assssets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownNote0000" x="0" y="0" width="733" height="355" frameX="0" frameY="-55" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0001" x="733" y="0" width="652" height="400" frameX="-40" frameY="-9" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0002" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0003" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0004" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0005" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0006" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0007" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0008" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0009" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0010" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0011" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0012" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0013" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="DownNote0014" x="1385" y="0" width="636" height="409" frameX="-48" frameY="0" frameWidth="733" frameHeight="410"/>
+	<SubTexture name="IdleDance0000" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="IdleDance0001" x="2021" y="0" width="547" height="446" frameX="0" frameY="-34" frameWidth="568" frameHeight="480"/>
+	<SubTexture name="IdleDance0002" x="2568" y="0" width="561" height="388" frameX="-7" frameY="-92" frameWidth="568" frameHeight="480"/>
+	<SubTexture name="IdleDance0003" x="2021" y="0" width="547" height="446" frameX="0" frameY="-34" frameWidth="568" frameHeight="480"/>
+	<SubTexture name="LeftNote0000" x="3129" y="0" width="584" height="480" frameX="0" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0001" x="0" y="480" width="575" height="480" frameX="-24" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0002" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0003" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0004" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0005" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0006" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0007" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0008" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0009" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0010" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0011" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0012" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0013" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="LeftNote0014" x="575" y="480" width="571" height="480" frameX="-34" frameY="0" frameWidth="605" frameHeight="480"/>
+	<SubTexture name="RightNote0000" x="1146" y="480" width="654" height="480" frameX="-4" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0001" x="1800" y="480" width="618" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0002" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0003" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0004" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0005" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0006" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0007" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0008" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0009" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0010" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0011" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0012" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0013" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="RightNote0014" x="2418" y="480" width="617" height="480" frameX="0" frameY="0" frameWidth="658" frameHeight="480"/>
+	<SubTexture name="UpNote0000" x="3035" y="480" width="547" height="817"/>
+	<SubTexture name="UpNote0001" x="0" y="1297" width="547" height="722" frameX="0" frameY="-95" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0002" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0003" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0004" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0005" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0006" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0007" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0008" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0009" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0010" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0011" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0012" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0013" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="UpNote0014" x="547" y="1297" width="547" height="707" frameX="0" frameY="-110" frameWidth="547" frameHeight="817"/>
+	<SubTexture name="badtom0000" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0001" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0002" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0003" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0004" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0005" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0006" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0007" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0008" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0009" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0010" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0011" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0012" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0013" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0014" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0015" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0016" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0017" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0018" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0019" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0020" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0021" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0022" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0023" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0024" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0025" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0026" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0027" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0028" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0029" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0030" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0031" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0032" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0033" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0034" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0035" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0036" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0037" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0038" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0039" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0040" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0041" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0042" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0043" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0044" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0045" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0046" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0047" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0048" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0049" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0050" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0051" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0052" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0053" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0054" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0055" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0056" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0057" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0058" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0059" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0060" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0061" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0062" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0063" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0064" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0065" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0066" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0067" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0068" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0069" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0070" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0071" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0072" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0073" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0074" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0075" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0076" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0077" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0078" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0079" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0080" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0081" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0082" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0083" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0084" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0085" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0086" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0087" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0088" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0089" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0090" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0091" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0092" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0093" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0094" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0095" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0096" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0097" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0098" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0099" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0100" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0101" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0102" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0103" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0104" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0105" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0106" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0107" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0108" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0109" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0110" x="1094" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0111" x="1641" y="1297" width="547" height="480"/>
+	<SubTexture name="badtom0112" x="1094" y="1297" width="547" height="480"/>
+</TextureAtlas>

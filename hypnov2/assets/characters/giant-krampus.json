@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -76,
+        393
+      ],
+      "anim": "singRIGHT",
+      "fps": 30,
+      "name": "RightNote",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        785,
+        322
+      ],
+      "anim": "singLEFT",
+      "fps": 30,
+      "name": "LeftNote",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        364,
+        -47
+      ],
+      "anim": "singDOWN",
+      "fps": 30,
+      "name": "DownNote",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        167,
+        257
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "IdleDance",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        348,
+        621
+      ],
+      "anim": "singUP",
+      "fps": 30,
+      "name": "UpNote",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "mokey assets/Krampus_FinalPhase",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "krampus",
+  "flip_x": false,
+  "healthbar_colors": [
+    255,
+    255,
+    255
+  ],
+  "camera_position": [
+    -760,
+    -295
+  ],
+  "sing_duration": 6.1,
+  "scale": 1.7
+}

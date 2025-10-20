@@ -1,0 +1,43 @@
+{
+  "songs": [
+    [
+      "Boy",
+      "mokey",
+      [
+        63,
+        107,
+        196
+      ]
+    ],
+    [
+      "Ah Hyuck",
+      "grooby",
+      [
+        10,
+        255,
+        0
+      ]
+    ],
+    [
+      "Dilan Noises",
+      "dilan",
+      [
+        0,
+        93,
+        255
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "mokey",
+    "",
+    ""
+  ],
+  "weekBackground": "weekboiPICTURE",
+  "storyName": "OH BOY E KRIMAH DIZ IS HALLOWIN DA VIRUZ MOMY AA",
+  "weekBefore": "weekBOI",
+  "weekName": "Week BOI",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}
