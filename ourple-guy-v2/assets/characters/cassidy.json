@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				62
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				61
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				60
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				61
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 30,
+			"name": "danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 30,
+			"name": "danceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				60
+			],
+			"anim": "singLEFTmiss",
+			"fps": 30,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 30,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				59
+			],
+			"anim": "singUPmiss",
+			"fps": 30,
+			"name": "missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				59
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 30,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				62,
+				59
+			],
+			"anim": "deathLoop",
+			"fps": 30,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				59
+			],
+			"anim": "firstDeath",
+			"fps": 30,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				59
+			],
+			"anim": "deathConfirm",
+			"fps": 30,
+			"name": "dead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cassidy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cassidy",
+	"flip_x": true,
+	"healthbar_colors": [
+		194,
+		0,
+		72
+	],
+	"camera_position": [
+		-60,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

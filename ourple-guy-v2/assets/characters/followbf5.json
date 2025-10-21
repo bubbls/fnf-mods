@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "l m"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "d m"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "r m"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "u m"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "u a"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "l a"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "r a"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "d a"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "i a"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/followed/followbf4",
+	"position": [
+		-300,
+		-295
+	],
+	"healthicon": "ourplebf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		40,
+		95
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

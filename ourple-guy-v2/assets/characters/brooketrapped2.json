@@ -1,0 +1,185 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "brookeidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "brookeleft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "brookedown",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "brookeright",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "brookeup",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				19
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "brookerightmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "brookeleftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "brookedownmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				49
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "brookeupmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trapped/broketrapped2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "brooke",
+	"flip_x": true,
+	"healthbar_colors": [
+		48,
+		175,
+		209
+	],
+	"camera_position": [
+		180,
+		160
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}
