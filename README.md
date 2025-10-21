@@ -1,2 +1,2 @@
-juicekidd.github.io/funkin
+eek!
 ........
