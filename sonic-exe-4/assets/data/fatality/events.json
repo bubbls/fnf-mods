@@ -1,0 +1,47 @@
+{
+	"song": {
+		"song": "Fatality",
+		"notes": [],
+		"events": [
+			[
+				16000,
+				[
+					[
+						"fatalityBG",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				124000,
+				[
+					[
+						"fatalityBG",
+						"3",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"true-fatal"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-fatal-small"
+					]
+				]
+			]
+		],
+		"bpm": 240,
+		"needsVoices": true,
+		"speed": 2.7,
+		"player1": "bf-fatal",
+		"player2": "fatal-sonic",
+		"player3": null,
+		"gfVersion": "gf",
+		"stage": "fatality",
+		"validScore": false
+	}
+}

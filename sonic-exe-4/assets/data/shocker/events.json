@@ -1,0 +1,59 @@
+{
+	"song": {
+		"song": "Shocker",
+		"notes": [],
+		"events": [
+			[
+				103578.947368421,
+				[
+					[
+						"Lyrics",
+						"Free girl...--0xFFF6D85D",
+						"1.3"
+					]
+				]
+			],
+			[
+				101725.657894737,
+				[
+					[
+						"Lyrics",
+						"Uhhh...--0xFFF6D85D",
+						"1.2"
+					]
+				]
+			],
+			[
+				101725.657894737,
+				[
+					[
+						"Lyrics",
+						"I just need--0xFFF6D85D",
+						"1.2"
+					]
+				]
+			],
+			[
+				102534.868421053,
+				[
+					[
+						"Lyrics",
+						"a boyfriend--0xFFF6D85D",
+						"1.2"
+					]
+				]
+			]
+		],
+		"bpm": 190,
+		"needsVoices": false,
+		"speed": 2.9,
+		"arrowSkin": "",
+		"splashSkin": "noteSplashes",
+		"player1": "bf",
+		"player2": "sonichu",
+		"player3": null,
+		"gfVersion": "gf",
+		"stage": "sonichu",
+		"validScore": false
+	}
+}

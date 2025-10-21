@@ -1,0 +1,9 @@
+{
+  "directory": "exeold",
+  "defaultZoom": 0.7,
+  "isPixelStage": false,
+
+  "boyfriend": [ 1850, 370 ],
+  "girlfriend": [ 400, 30 ],
+  "opponent": [ 61, -150 ]
+}

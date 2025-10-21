@@ -1,0 +1,94 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "sonicexe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Endless",
+			"majin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Endless OG",
+			"majin-og",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cycles",
+			"soylent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sunshine",
+			"taildoll",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Soulless",
+			"tailsstarved",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Faker",
+			"soylent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Black Sun",
+			"soylent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Chaos",
+			"fleetway",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

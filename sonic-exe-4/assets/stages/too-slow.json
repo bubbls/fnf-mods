@@ -1,0 +1,9 @@
+{
+	"directory": "encore",
+	"defaultZoom": 0.65,
+	"isPixelStage": false,
+
+	"boyfriend": [ 550, -45 ],
+	"girlfriend": [ 100, -45 ],
+	"opponent": [ -250, 0 ]
+}

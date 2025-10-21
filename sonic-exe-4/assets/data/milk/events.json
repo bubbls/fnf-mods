@@ -1,0 +1,69 @@
+{
+	"song": {
+		"song": "milk",
+		"notes": [],
+		"events": [
+			[
+				21333,
+				[
+					[
+						"sunker",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44444,
+				[
+					[
+						"sunk",
+						"munch",
+						""
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"sunk",
+						"cereal",
+						""
+					]
+				]
+			],
+			[
+				86666,
+				[
+					[
+						"sunk",
+						"cereal2",
+						""
+					]
+				]
+			],
+			[
+				129333,
+				[
+					[
+						"sunk",
+						"black",
+						""
+					]
+				]
+			]
+		],
+		"bpm": 180,
+		"needsVoices": true,
+		"speed": 2.8,
+		"arrowSkin": "",
+		"splashSkin": "milkSplashes",
+		"player1": "bf-sunkeh",
+		"player2": "sunky",
+		"player3": null,
+		"gfVersion": "gf",
+		"stage": "sunkStage",
+		"validScore": false
+	}
+}

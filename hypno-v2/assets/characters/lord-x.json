@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "X IDLE"
+		},
+		{
+			"offsets": [
+				41,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "X LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "X DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "X UP"
+		},
+		{
+			"offsets": [
+				-28,
+				164
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "X RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mx/GAMBLE_X",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lord-x",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		62,
+		93
+	],
+	"camera_position": [
+		-400,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

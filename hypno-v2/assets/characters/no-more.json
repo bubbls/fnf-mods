@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fucker",
+			"indices": [],
+			"name": "No More instance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				60,
+				60
+			],
+			"name": "No More instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gold/GOLD_NO_MORE",
+	"position": [
+		-7,
+		-35
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-197,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

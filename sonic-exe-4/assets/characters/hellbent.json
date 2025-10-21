@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "1idle"
+		},
+		{
+			"offsets": [
+				102,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "2left"
+		},
+		{
+			"offsets": [
+				-2,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "3right"
+		},
+		{
+			"offsets": [
+				190,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "4down"
+		},
+		{
+			"offsets": [
+				85,
+				281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "5up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hellbent",
+	"position": [
+		340,
+		0
+	],
+	"healthicon": "soylent",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		46,
+		64
+	],
+	"camera_position": [
+		-500,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

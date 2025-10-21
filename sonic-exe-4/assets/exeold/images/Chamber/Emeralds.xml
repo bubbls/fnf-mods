@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Emeralds.png">
+	<!-- Created with Adobe Flash Professional version 14.0.0.110 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="TheEmeralds0000" x="0" y="0" width="950" height="576" frameX="0" frameY="0" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0001" x="0" y="0" width="950" height="576" frameX="0" frameY="0" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0002" x="950" y="0" width="950" height="575" frameX="0" frameY="-7" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0003" x="950" y="0" width="950" height="575" frameX="0" frameY="-7" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0004" x="1900" y="0" width="950" height="572" frameX="0" frameY="-15" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0005" x="1900" y="0" width="950" height="572" frameX="0" frameY="-15" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0006" x="2850" y="0" width="950" height="569" frameX="0" frameY="-23" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0007" x="2850" y="0" width="950" height="569" frameX="0" frameY="-23" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0008" x="0" y="576" width="950" height="568" frameX="0" frameY="-31" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0009" x="0" y="576" width="950" height="568" frameX="0" frameY="-31" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0010" x="950" y="576" width="950" height="567" frameX="0" frameY="-38" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0011" x="950" y="576" width="950" height="567" frameX="0" frameY="-38" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0012" x="1900" y="576" width="950" height="564" frameX="0" frameY="-46" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0013" x="1900" y="576" width="950" height="564" frameX="0" frameY="-46" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0014" x="2850" y="576" width="950" height="562" frameX="0" frameY="-54" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0015" x="2850" y="576" width="950" height="562" frameX="0" frameY="-54" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0016" x="0" y="1144" width="950" height="564" frameX="0" frameY="-47" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0017" x="0" y="1144" width="950" height="564" frameX="0" frameY="-47" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0018" x="950" y="1144" width="950" height="565" frameX="0" frameY="-40" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0019" x="950" y="1144" width="950" height="565" frameX="0" frameY="-40" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0020" x="1900" y="1144" width="950" height="568" frameX="0" frameY="-32" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0021" x="1900" y="1144" width="950" height="568" frameX="0" frameY="-32" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0022" x="2850" y="1144" width="950" height="570" frameX="0" frameY="-25" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0023" x="2850" y="1144" width="950" height="570" frameX="0" frameY="-25" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0024" x="0" y="1714" width="950" height="571" frameX="0" frameY="-18" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0025" x="0" y="1714" width="950" height="571" frameX="0" frameY="-18" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0026" x="950" y="1714" width="950" height="573" frameX="0" frameY="-11" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0027" x="950" y="1714" width="950" height="573" frameX="0" frameY="-11" frameWidth="950" frameHeight="616"/>
+	<SubTexture name="TheEmeralds0028" x="1900" y="1714" width="950" height="575" frameX="0" frameY="-4" frameWidth="950" frameHeight="616"/>
+</TextureAtlas>

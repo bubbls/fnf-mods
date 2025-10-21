@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFmale.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Anim0001" x="0" y="5379" width="4780" height="1793" frameX="0" frameY="0" frameWidth="4961" frameHeight="1793"/>
+	<SubTexture name="Anim0002" x="0" y="3586" width="4867" height="1793" frameX="0" frameY="0" frameWidth="4961" frameHeight="1793"/>
+	<SubTexture name="Anim0003" x="0" y="1793" width="4953" height="1793" frameX="0" frameY="0" frameWidth="4961" frameHeight="1793"/>
+	<SubTexture name="Anim0004" x="0" y="0" width="4961" height="1793"/>
+	<SubTexture name="Anim0006" x="0" y="5379" width="4780" height="1793" frameX="0" frameY="0" frameWidth="4961" frameHeight="1793"/>
+	<SubTexture name="Anim0007" x="0" y="3586" width="4867" height="1793" frameX="0" frameY="0" frameWidth="4961" frameHeight="1793"/>
+	<SubTexture name="Anim0008" x="0" y="1793" width="4953" height="1793" frameX="0" frameY="0" frameWidth="4961" frameHeight="1793"/>
+	<SubTexture name="Anim0009" x="0" y="0" width="4961" height="1793"/>
+	<SubTexture name="Anim0010" x="0" y="1793" width="4953" height="1793" frameX="0" frameY="0" frameWidth="4961" frameHeight="1793"/>
+</TextureAtlas>

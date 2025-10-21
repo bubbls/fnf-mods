@@ -1,0 +1,276 @@
+{
+	"song": {
+		"events": [
+			[
+				27600,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicb"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				51600,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicb"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicb"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicb"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicb"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicb"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				128850,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicb"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicb"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			]
+		]
+	}
+}

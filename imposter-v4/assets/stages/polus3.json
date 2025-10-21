@@ -1,0 +1,10 @@
+{
+	"directory": "polus3",
+	"defaultZoom": 0.55,
+	"isPixelStage": false,
+
+	"boyfriend": [1970, 10],
+	"girlfriend": [1500, 130],
+	"opponent": [950, -70],
+	"secondopp": [-60, 210]
+}

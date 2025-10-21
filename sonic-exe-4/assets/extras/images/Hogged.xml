@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hogged.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="2754" y="1358" width="2510" height="1358" frameX="0" frameY="0" frameWidth="2754" frameHeight="1363"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="2754" height="1358" frameX="0" frameY="0" frameWidth="2754" frameHeight="1363"/>
+	<SubTexture name="Idle0002" x="0" y="2716" width="2507" height="1363" frameX="0" frameY="0" frameWidth="2754" frameHeight="1363"/>
+	<SubTexture name="Idle0003" x="0" y="1358" width="2754" height="1358" frameX="0" frameY="0" frameWidth="2754" frameHeight="1363"/>
+	<SubTexture name="Idle0004" x="2754" y="0" width="2553" height="1358" frameX="0" frameY="0" frameWidth="2754" frameHeight="1363"/>
+</TextureAtlas>

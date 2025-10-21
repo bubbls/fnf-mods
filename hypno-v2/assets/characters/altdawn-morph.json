@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "idle",
+			"loop": false,
+			"name": "dawn morph idle"
+		},
+		{
+			"offsets": [
+				-2,
+				13
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dawn morph up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dawn morph left"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dawn morph right"
+		},
+		{
+			"offsets": [
+				2,
+				-20
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dawn morph down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "real/dawn morph",
+	"position": [
+		100,
+		100
+	],
+	"healthicon": "dawn",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-500,
+		-70
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.8
+}

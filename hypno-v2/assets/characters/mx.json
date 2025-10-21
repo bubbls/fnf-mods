@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftBack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownBack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				135
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpBack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightBack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				0
+			],
+			"anim": "Hit1",
+			"fps": 24,
+			"name": "Hit1Back",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-13
+			],
+			"anim": "Hit2",
+			"fps": 24,
+			"name": "Hit2Back",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "IdleBack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mx/mxback",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mx",
+	"flip_x": true,
+	"healthbar_colors": [
+		63,
+		9,
+		4
+	],
+	"camera_position": [
+		-600,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

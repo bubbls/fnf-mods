@@ -1,0 +1,85 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "sonicexe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Prey",
+			"furnace",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fight or Flight",
+			"starved",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Round a Bout",
+			"needlemouse",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fatality",
+			"fatal-sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Milk",
+			"sunky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"too-fest",
+			"sanic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Personel",
+			"sunky",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

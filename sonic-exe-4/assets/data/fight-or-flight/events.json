@@ -1,0 +1,59 @@
+{
+	"song": {
+		"song": "Fight or Flight",
+		"notes": [],
+		"events": [
+			[
+				123519,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				146513,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				149387,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				172381,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+			
+		],
+		"bpm": 123,
+		"needsVoices": true,
+		"speed": 2.7,
+		"arrowSkin": "",
+		"player1": "bf-tails",
+		"player2": "starved",
+		"player3": null,
+		"gfVersion": "gf",
+		"stage": "starved",
+		"validScore": false
+	}
+}

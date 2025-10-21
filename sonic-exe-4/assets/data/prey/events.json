@@ -1,0 +1,187 @@
+{
+	"song": {
+		"song": "Prey",
+		"notes": [],
+		"events": [
+			[
+				10909,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"dad tween",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128181.818181818,
+				[
+					[
+						"starved scene",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				131676.136363636,
+				[
+					[
+						"Change Character",
+						"dad",
+						"starved-pixel"
+					]
+				]
+			],
+			[
+				131761.363636364,
+				[
+					[
+						"Lyrics",
+						"Seems that bucket of bolts had to lay off the nitro this time around!--0xFF484FB1",
+						"3"
+					]
+				]
+			],
+			[
+				131846.590909091,
+				[
+					[
+						"Play Animation",
+						"first dialogue",
+						"1"
+					]
+				]
+			],
+			[
+				133000,
+				[
+					[
+						"starved tween",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				135255.681818182,
+				[
+					[
+						"Lyrics",
+						"Hey Red Head!--0xFF484FB1",
+						""
+					]
+				]
+			],
+			[
+				136363.636363636,
+				[
+					[
+						"Lyrics",
+						"Might wanna repair your toys!--0xFF484FB1",
+						"1.1"
+					]
+				]
+			],
+			[
+				138494.318181818,
+				[
+					[
+						"Lyrics",
+						"You don't even know your fate, hedgehog...--0xFFFF0007",
+						"3.7"
+					]
+				]
+			],
+			[
+				142840.909090909,
+				[
+					[
+						"Lyrics",
+						"*Maniacal kackling*--0xFFFF0007",
+						"8.9"
+					]
+				]
+			],
+			[
+				152301.136363636,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-Sonic-Peelout"
+					]
+				]
+			],
+			[
+				152302,
+				[
+					[
+						"bgSpeed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				283636,
+				[
+					[
+						"starved tween",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				284232,
+				[
+					[
+						"Lyrics",
+						"Man, you really like scrambling your own plans don't'cha- --0xFF484FB1",
+						"3"
+					]
+				]
+			],
+			[
+				284232,
+				[
+					[
+						"Play Animation",
+						"dialogue peel",
+						"1"
+					]
+				]
+			],
+			[
+				286874,
+				[
+					[
+						"starved end",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"bpm": 176,
+		"needsVoices": true,
+		"speed": 3.5,
+		"player1": "bf-running-sonic",
+		"player2": "Furnace",
+		"player3": null,
+		"gfVersion": "gf",
+		"stage": "starved-pixel",
+		"validScore": false
+	}
+}

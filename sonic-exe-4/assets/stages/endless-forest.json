@@ -1,0 +1,9 @@
+{
+	"directory": "exe",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [ 1000, 500 ],
+	"girlfriend": [ 400, 200 ],
+	"opponent": [ 110, 400 ]
+}

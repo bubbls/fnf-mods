@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hola",
+			"fps": 24,
+			"name": "gengar entrance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "leave",
+			"indices": [
+				56,
+				55,
+				54,
+				53,
+				52,
+				51,
+				50,
+				49,
+				48
+			],
+			"name": "gengar entrance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/buried/enter_gengar",
+	"position": [
+		278,
+		206
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

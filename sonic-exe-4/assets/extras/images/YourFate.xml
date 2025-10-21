@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YourFate.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="1768" height="956"/>
+	<SubTexture name="Idle0001" x="1768" y="0" width="1768" height="956"/>
+	<SubTexture name="Idle0002" x="0" y="956" width="1768" height="956"/>
+	<SubTexture name="Idle0003" x="0" y="956" width="1768" height="956"/>
+	<SubTexture name="Idle0004" x="0" y="956" width="1768" height="956"/>
+	<SubTexture name="Idle0005" x="0" y="956" width="1768" height="956"/>
+	<SubTexture name="Idle0006" x="1768" y="956" width="1768" height="956"/>
+	<SubTexture name="Idle0007" x="1768" y="956" width="1768" height="956"/>
+	<SubTexture name="Idle0008" x="1768" y="956" width="1768" height="956"/>
+</TextureAtlas>

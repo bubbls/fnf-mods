@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="corereactor.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="core0000" x="0" y="0" width="1468" height="1297" frameX="0" frameY="0" frameWidth="1468" frameHeight="1298"/>
+	
+</TextureAtlas>

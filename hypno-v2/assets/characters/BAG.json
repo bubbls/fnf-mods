@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "BF_AURGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF_Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF_Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-34
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF_Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF_Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hola",
+			"fps": 24,
+			"name": "gengar entrance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "gun",
+			"fps": 24,
+			"name": "gungar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BAGF_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BAGF_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BAGF_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BAGF_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-12
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BAGF_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/buried/apparitiongf_assets",
+	"position": [
+		380,
+		90
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		229
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

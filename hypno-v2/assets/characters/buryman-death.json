@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "buried_death"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "retry",
+			"indices": [],
+			"name": "BA_retry0"
+		},
+		{
+			"offsets": [
+				24,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "accept",
+			"indices": [],
+			"name": "BA_retry_confirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/death/BA_DeathRetry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 3
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Knux Idle instance"
+		},
+		{
+			"offsets": [
+				78,
+				-190
+			],
+			"indices": [
+				10000,
+				10001,
+				10002,
+				10003
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Knux Down instance"
+		},
+		{
+			"offsets": [
+				150,
+				-173
+			],
+			"indices": [
+				10000,
+				10001,
+				10002,
+				10003
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Knux Left instance"
+		},
+		{
+			"offsets": [
+				-14,
+				-176
+			],
+			"indices": [
+				10000,
+				10001,
+				10002,
+				10003,
+				10004
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Knux Right copy instance"
+		},
+		{
+			"offsets": [
+				-4,
+				-146
+			],
+			"indices": [
+				10000,
+				10001,
+				10002,
+				10003,
+				10004
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Knux Up instance"
+		},
+		{
+			"offsets": [
+				79,
+				-190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": false,
+			"name": "Knux Down instance"
+		},
+		{
+			"offsets": [
+				-3,
+				-147
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": false,
+			"name": "Knux Up instance"
+		},
+		{
+			"offsets": [
+				-14,
+				-175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": false,
+			"name": "Knux Right copy instance"
+		},
+		{
+			"offsets": [
+				152,
+				-171
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": false,
+			"name": "Knux Left instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AmyRose",
+	"position": [
+		-50,
+		-65
+	],
+	"healthicon": "bf-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		184,
+		115,
+		115
+	],
+	"camera_position": [
+		60,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

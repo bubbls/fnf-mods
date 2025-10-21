@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				407,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "boyfriend lef miss"
+		},
+		{
+			"offsets": [
+				54,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "boyfriend dow miss"
+		},
+		{
+			"offsets": [
+				225,
+				356
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "boyfriend u miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				202
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "boyfriend righ miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				125,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RedLeftMad"
+		},
+		{
+			"offsets": [
+				1,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RedDownMad"
+		},
+		{
+			"offsets": [
+				-63,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RedRightMad"
+		},
+		{
+			"offsets": [
+				55,
+				-12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RedIdleMad"
+		},
+		{
+			"offsets": [
+				-2,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RedUpMad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red/Glitchy_Red_Assets_angrybitch",
+	"position": [
+		-120,
+		-200
+	],
+	"healthicon": "glitchy-red-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		60,
+		80
+	],
+	"camera_position": [
+		-200,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
