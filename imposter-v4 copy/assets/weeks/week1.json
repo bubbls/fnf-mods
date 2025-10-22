@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Sussus Moogus", "impostor", [255, 51, 51]],
+		["Sabotage", "impostor", [255, 51, 51]],
+		["Meltdown", "impostor", [255, 51, 51]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Polus Problems",
+	"weekBefore": "Week 0",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

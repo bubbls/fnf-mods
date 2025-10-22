@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ball lol.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="core instance 10000" x="0" y="0" width="1108" height="992" frameX="0" frameY="0" frameWidth="1108" frameHeight="993"/>
+
+</TextureAtlas>
