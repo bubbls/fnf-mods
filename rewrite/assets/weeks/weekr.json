@@ -1,0 +1,32 @@
+{
+	"storyName": "vs rewrite",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "thriller",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"thriller gen",
+			"rewrite-icon",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "thriller gen"
+}
