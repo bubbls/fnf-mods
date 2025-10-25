@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!-- Commonly Used -->
+	<file id="data" value="data.tsv"/>
+
+	<!-- Used for Main Menu -->
+	<file id="menu" value="mainMenu.tsv"/>
+
+	<!-- Used for Pause Menu -->
+	<file id="pause" value="pauseMenu.tsv"/>
+
+	<!-- Used for Options Menu -->
+	<file id="option" value="optionCategory.tsv"/>
+	<file id="option" value="optionName.tsv"/>
+	<file id="option" value="optionDesc.tsv"/>
+
+	<!-- Used for Costume Select -->
+	<file id="costume" value="characterName.tsv"/>
+	<file id="costume" value="costumeName.tsv"/>
+	<file id="costume" value="costumeDesc.tsv"/>
+	<file id="costume" value="costumeUnlock.tsv"/>
+
+	<!-- Used for Story Menu & Pop-ups -->
+	<file id="story" value="weekNames.tsv"/>
+	<file id="story" value="unlockPopups.tsv"/>
+
+	<!-- Used for Dialogue -->
+	<file id="dialogue" value="dialogue/high school conflict.tsv"/>
+	<file id="dialogue" value="dialogue/bara no yume.tsv"/>
+	<file id="dialogue" value="dialogue/your demise.tsv"/>
+	<file id="dialogue" value="dialogue/rain clouds.tsv"/>
+	<file id="dialogue" value="dialogue/my confession.tsv"/>
+	<file id="dialogue" value="dialogue/my sweets.tsv"/>
+	<file id="dialogue" value="dialogue/baka.tsv"/>
+	<file id="dialogue" value="dialogue/deep breaths.tsv"/>
+	<file id="dialogue" value="dialogue/obsession.tsv"/>
+	<file id="dialogue" value="dialogue/reconciliation.tsv"/>
+	<file id="dialogue" value="dialogue/crucify (yuri mix).tsv"/>
+	<file id="dialogue" value="dialogue/beathoven (natsuki mix).tsv"/>
+	<file id="dialogue" value="dialogue/it's complicated (sayori mix).tsv"/>
+	<file id="dialogue" value="dialogue/glitcher (monika mix).tsv"/>
+	<file id="dialogue" value="dialogue/hot air balloon.tsv"/>
+	<file id="dialogue" value="dialogue/shrinking violet.tsv"/>
+	<file id="dialogue" value="dialogue/joyride.tsv"/>
+	<file id="dialogue" value="dialogue/our harmony.tsv"/>
+	<file id="dialogue" value="dialogue/neet.tsv"/>
+	<file id="dialogue" value="dialogue/you and me.tsv"/>
+	<file id="dialogue" value="dialogue/love n funkin.tsv"/>
+	<file id="dialogue" value="dialogue/constricted.tsv"/>
+	<file id="dialogue" value="dialogue/catfight.tsv"/>
+	<file id="dialogue" value="dialogue/wilted.tsv"/>
+	<file id="dialogue" value="dialogue/epiphany.tsv"/>
+
+	<!-- Used for You and Me -->
+	<file id="yam" value="yamIntro.tsv"/>
+
+	<!-- Add locale entries here.
+		https://www.techonthenet.com/js/language_tags.php
+	-->
+
+	<!-- English -->
+	<locale id="en-US" is_default="true">
+		<label id="en-US" language="English" region="United States"/>
+		<label id="es-US" language="Inglés" region="Estados Unidos"/>
+		<label id="ru-RU" language="Английский" region="Соединенные Штаты"/>
+		<label id="nl-NL" language="Engels" region="Verenigde Staten"/>
+		<label id="pt-BR" language="Inglês" region="Estados Unidos"/>
+		<label id="jp-JP" language="英語" region="アメリカ"/>
+	</locale>
+
+	<!-- Spanish -->
+	<locale id="es-US">
+		<label id="en-US" language="Spanish" region="United States"/>
+		<label id="es-US" language="Español" region="Estados Unidos"/>
+		<label id="ru-RU" language="Испанский" region="Соединенные Штаты"/>
+		<label id="nl-NL" language="Spaans" region="Verenigde Staten"/>
+		<label id="pt-BR" language="Espanhol" region="Estados Unidos"/>
+		<label id="jp-JP" language="スペイン語" region="アメリカ"/>
+	</locale>
+
+	<!-- Russian -->
+	<locale id="ru-RU">
+		<label id="en-US" language="Russian" region="Russia"/>
+		<label id="es-US" language="Ruso" region="Rusia"/>
+		<label id="ru-RU" language="Русский" region="Россия"/>
+		<label id="nl-NL" language="Russisch" region="Rusland"/>
+		<label id="pt-BR" language="Russo" region="Rússia"/>
+		<label id="jp-JP" language="ロシア" region="ロシア"/>
+	</locale>
+
+	<!-- Dutch -->
+	<locale id="nl-NL">
+		<label id="en-US" language="Dutch" region="Netherlands"/>
+		<label id="es-US" language="Holandés" region="Países Bajos"/>
+		<label id="ru-RU" language="Голландский" region="Нидерланды"/>
+		<label id="nl-NL" language="Nederlands" region="Nederland"/>
+		<label id="pt-BR" language="Holandês" region="Países Baixos"/>
+		<label id="jp-JP" language="オランダの" region="オランダ"/>
+	</locale>
+
+	<!-- Brazilian Portuguese -->
+	<locale id="pt-BR">
+		<label id="en-US" language="Brazilian Portuguese" region="Brazil"/>
+		<label id="es-US" language="Portugués de Brasil" region="Brasil"/>
+		<label id="ru-RU" language="бразильский португальский" region="Бразилия"/>
+		<label id="nl-NL" language="Braziliaans Portugees" region="Brazilië"/>
+		<label id="pt-BR" language="Português" region="Brasil"/>
+		<label id="jp-JP" language="ブラジルポルトガル語" region="ブラジル"/>
+	</locale>
+
+	<!-- Japanese -->
+	<locale id="jp-JP">
+		<label id="en-US" language="Japanese" region="Japan"/>
+		<label id="es-US" language="Japonés" region="Japón"/>
+		<label id="ru-RU" language="Японский" region="Япония"/>
+		<label id="nl-NL" language="Japans" region="Japan"/>
+		<label id="pt-BR" language="Japonês" region="Japão"/>
+		<label id="jp-JP" language="日本" region="日本"/>
+	</locale>
+</data>

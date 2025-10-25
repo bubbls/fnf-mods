@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "Libitina",
+        "artist": "JACKALRUIN",
+        "icon": "file",
+        "pause": "libitina",
+        "allowCountDown": false,
+        "playManually": true
+    }
+}
