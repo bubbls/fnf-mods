@@ -1,0 +1,43 @@
+{
+	"name": "normal",
+	"image": "speech_bubble",
+	"position": {50, 375},
+	"animations": {
+		{
+			"name": "open",
+			"anim": "poketextbox",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "normal",
+			"anim": "poketextbox",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+		{
+			"name": "normal_flipped",
+			"anim": "poketextbox",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": true,
+			"flipX": true
+		},
+		{
+			"name": "middle",
+			"anim": "poketextbox",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": true,
+			"flipX": false
+		},
+	},
+	"scaleX": 1,
+	"scaleY": 1,
+	"no_antialiasing": false,
+	"alpha": 1
+}

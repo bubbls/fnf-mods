@@ -1,0 +1,286 @@
+{
+	"song": {
+		"events": [
+			[
+				11666.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"glitching-red"
+					]
+				]
+			],
+			[
+				33333.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"glitchy-red"
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Change Character",
+						"dad",
+						"glitching-red"
+					]
+				]
+			],
+			[
+				54666.6666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"insta"
+					]
+				]
+			],
+			[
+				75666.6666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"insta"
+					]
+				]
+			],
+			[
+				78333.3333333333,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"insta"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"insta"
+					]
+				]
+			],
+			[
+				83666.6666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"insta"
+					]
+				]
+			],
+			[
+				86666.6666666666,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"insta"
+					]
+				]
+			],
+			[
+				109666.666666667,
+				[
+					[
+						"Play Animation",
+						"transform",
+						"dad"
+					]
+				]
+			],
+			[
+				116916.666666667,
+				[
+					[
+						"Play Animation",
+						"roar",
+						"dad"
+					]
+				]
+			],
+			[
+				118666.666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"insta"
+					],
+					[
+						"Unleash RED",
+						"",
+						""
+					],
+					[
+						"Red Aberration",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"gr-overdriven"
+					],
+					[
+						"Toggle FlxTrail",
+						"dad",
+						"on"
+					],
+					[
+						"Change FlxTrail Color",
+						"dad",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				140000,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"insta"
+					]
+				]
+			],
+			[
+				146666.666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"insta"
+					]
+				]
+			],
+			[
+				148000,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"insta"
+					]
+				]
+			],
+			[
+				152666.666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"swap"
+					]
+				]
+			],
+			[
+				155333.333333333,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"swap"
+					]
+				]
+			],
+			[
+				157666.666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"swap"
+					]
+				]
+			],
+			[
+				157916.666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"swap"
+					]
+				]
+			],
+			[
+				158166.666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"swap"
+					]
+				]
+			],
+			[
+				158416.666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"swap"
+					]
+				]
+			],
+			[
+				160416.666666667,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"swap"
+					]
+				]
+			],
+			[
+				161000,
+				[
+					[
+						"Glitchy Insta Kill",
+						"off",
+						"swap"
+					]
+				]
+			],
+			[
+				161333.333333333,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"gr-beyond"
+					]
+				]
+			],
+			[
+				172000,
+				[
+					[
+						"Glitchy Insta Kill",
+						"on",
+						"swap"
+					]
+				]
+			]
+		]
+	}
+}

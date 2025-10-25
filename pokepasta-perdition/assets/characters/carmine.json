@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/carmine",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "carmine",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		85,
+		85
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 3.99999999999999,
+	"scale": 1
+}

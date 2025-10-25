@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pokemon screen.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="battle transition0000" x="10" y="10" width="34" height="19"/>
+	<SubTexture name="battle transition0001" x="54" y="10" width="34" height="19"/>
+	<SubTexture name="battle transition0002" x="10" y="39" width="34" height="19"/>
+	<SubTexture name="battle transition0003" x="54" y="39" width="34" height="19"/>
+	<SubTexture name="battle transition0004" x="10" y="68" width="34" height="19"/>
+	<SubTexture name="battle transition0005" x="54" y="68" width="34" height="19"/>
+	<SubTexture name="battle transition0006" x="10" y="97" width="34" height="19"/>
+	<SubTexture name="battle transition0007" x="54" y="97" width="34" height="19"/>
+	<SubTexture name="battle transition0008" x="10" y="126" width="34" height="19"/>
+	<SubTexture name="battle transition0009" x="54" y="126" width="34" height="19"/>
+	<SubTexture name="battle transition0010" x="10" y="155" width="34" height="19"/>
+	<SubTexture name="battle transition0011" x="54" y="155" width="34" height="19"/>
+	<SubTexture name="battle transition0012" x="10" y="184" width="34" height="19"/>
+	<SubTexture name="battle transition0013" x="54" y="184" width="34" height="19"/>
+	<SubTexture name="battle transition0014" x="10" y="213" width="34" height="19"/>
+</TextureAtlas>

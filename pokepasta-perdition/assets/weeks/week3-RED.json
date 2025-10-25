@@ -1,0 +1,33 @@
+{
+	"storyName": "Pokemon RED",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"cartImage": "PKMNRed",
+	"weekBefore": "week2-creepyblack",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Malfunction",
+			"redwood",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Pokemon RED",
+	"hiddenUntilUnlocked": false
+}

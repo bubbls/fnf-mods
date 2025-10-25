@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gr-beyond.png">
+<SubTexture name="idle0000" x="219" y="483" width="208" height="202" frameX="-91" frameY="-51" frameWidth="340" frameHeight="290" />
+<SubTexture name="idle0001" x="0" y="261" width="168" height="222" frameX="-109" frameY="-30" frameWidth="340" frameHeight="290" />
+<SubTexture name="idle0002" x="0" y="483" width="219" height="205" frameX="-111" frameY="-45" frameWidth="340" frameHeight="290" />
+<SubTexture name="idle0003" x="0" y="0" width="265" height="261" frameX="-65" frameY="-3" frameWidth="340" frameHeight="290" />
+<SubTexture name="idle0004" x="464" y="0" width="278" height="244" frameX="-65" frameY="-21" frameWidth="340" frameHeight="290" />
+<SubTexture name="idle0005" x="349" y="261" width="284" height="208" frameX="-38" frameY="-46" frameWidth="340" frameHeight="290" />
+<SubTexture name="left0000" x="742" y="508" width="268" height="143" frameX="-18" frameY="-76" frameWidth="340" frameHeight="290" />
+<SubTexture name="left0001" x="0" y="688" width="218" height="138" frameX="-48" frameY="-85" frameWidth="340" frameHeight="290" />
+<SubTexture name="down0000" x="265" y="0" width="199" height="259" frameX="-80" frameY="-33" frameWidth="340" frameHeight="290" />
+<SubTexture name="down0001" x="427" y="483" width="260" height="195" frameX="-28" frameY="-55" frameWidth="340" frameHeight="290" />
+<SubTexture name="right0000" x="742" y="0" width="273" height="194" frameX="-25" frameY="-54" frameWidth="340" frameHeight="290" />
+<SubTexture name="right0001" x="742" y="194" width="270" height="165" frameX="-72" frameY="-63" frameWidth="340" frameHeight="290" />
+<SubTexture name="up0000" x="168" y="261" width="181" height="218" frameX="-95" frameY="-2" frameWidth="340" frameHeight="290" />
+<SubTexture name="up0001" x="742" y="359" width="180" height="149" frameX="-108" frameY="-81" frameWidth="340" frameHeight="290" />
+</TextureAtlas>

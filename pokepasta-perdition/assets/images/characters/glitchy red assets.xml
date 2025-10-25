@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitchy red assets.png">
+<SubTexture name="glitch red idle0000" x="819" y="602" width="40" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0000" x="767" y="700" width="40" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0001" x="767" y="700" width="40" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0002" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0003" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0004" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0005" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0006" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0007" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0008" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0009" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0010" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0011" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0012" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red left0013" x="807" y="700" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0000" x="859" y="602" width="43" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0001" x="859" y="602" width="43" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0002" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0003" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0004" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0005" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0006" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0007" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0008" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0009" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0010" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0011" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0012" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red right0013" x="659" y="379" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0000" x="407" y="848" width="42" height="88" frameX="-137" frameY="-136" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0001" x="407" y="848" width="42" height="88" frameX="-137" frameY="-136" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0002" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0003" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0004" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0005" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0006" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0007" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0008" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0009" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0010" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0011" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0012" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red down0013" x="127" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0000" x="701" y="602" width="38" height="96" frameX="-140" frameY="-128" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0001" x="701" y="602" width="38" height="96" frameX="-140" frameY="-128" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0002" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0003" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0004" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0005" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0006" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0007" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0008" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0009" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0010" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0011" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0012" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitch red up0013" x="739" y="602" width="39" height="95" frameX="-139" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0000" x="819" y="602" width="40" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0001" x="819" y="602" width="40" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0002" x="848" y="700" width="47" height="92" frameX="-134" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0003" x="848" y="700" width="47" height="92" frameX="-134" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0004" x="84" y="848" width="43" height="91" frameX="-135" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0005" x="84" y="848" width="43" height="91" frameX="-135" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0006" x="0" y="0" width="365" height="279" frameX="0" frameY="0" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0007" x="0" y="0" width="365" height="279" frameX="0" frameY="0" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0008" x="918" y="0" width="40" height="92" frameX="-139" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0009" x="918" y="0" width="40" height="92" frameX="-139" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0010" x="1186" y="173" width="25" height="10" frameX="-144" frameY="-209" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0011" x="1186" y="173" width="25" height="10" frameX="-144" frameY="-209" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0012" x="819" y="602" width="40" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0013" x="819" y="602" width="40" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0014" x="819" y="602" width="40" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red idle0015" x="819" y="602" width="40" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0000" x="0" y="848" width="43" height="92" frameX="-135" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0001" x="0" y="848" width="43" height="92" frameX="-135" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0002" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0003" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0004" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0005" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0006" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0007" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0008" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0009" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0010" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0011" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0012" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red left0013" x="43" y="848" width="41" height="92" frameX="-138" frameY="-132" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0000" x="651" y="548" width="46" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0001" x="651" y="548" width="46" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0002" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0003" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0004" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0005" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0006" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0007" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0008" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0009" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0010" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0011" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0012" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red right0013" x="725" y="700" width="42" height="93" frameX="-139" frameY="-131" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0000" x="364" y="848" width="43" height="89" frameX="-136" frameY="-136" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0001" x="364" y="848" width="43" height="89" frameX="-136" frameY="-136" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0002" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0003" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0004" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0005" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0006" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0007" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0008" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0009" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0010" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0011" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0012" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red down0013" x="168" y="848" width="41" height="90" frameX="-138" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0000" x="659" y="279" width="38" height="100" frameX="-140" frameY="-124" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0001" x="659" y="279" width="38" height="100" frameX="-140" frameY="-124" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0002" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0003" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0004" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0005" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0006" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0007" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0008" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0009" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0010" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0011" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0012" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="glitchy red up0013" x="778" y="602" width="41" height="95" frameX="-137" frameY="-129" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0000" x="1005" y="81" width="45" height="80" frameX="-133" frameY="-144" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0001" x="590" y="848" width="45" height="82" frameX="-134" frameY="-142" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0002" x="635" y="848" width="45" height="82" frameX="-134" frameY="-142" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0003" x="544" y="848" width="46" height="83" frameX="-133" frameY="-142" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0004" x="635" y="848" width="45" height="82" frameX="-134" frameY="-142" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0005" x="759" y="848" width="43" height="81" frameX="-135" frameY="-143" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0006" x="1162" y="0" width="66" height="67" frameX="-117" frameY="-160" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0007" x="813" y="1021" width="52" height="70" frameX="-131" frameY="-157" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0008" x="813" y="1021" width="52" height="70" frameX="-131" frameY="-157" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0009" x="813" y="1021" width="52" height="70" frameX="-131" frameY="-157" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0010" x="813" y="1021" width="52" height="70" frameX="-131" frameY="-157" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0011" x="813" y="1021" width="52" height="70" frameX="-131" frameY="-157" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0012" x="558" y="1021" width="51" height="72" frameX="-131" frameY="-155" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0013" x="112" y="1021" width="59" height="78" frameX="-125" frameY="-146" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0014" x="1054" y="474" width="53" height="78" frameX="-127" frameY="-146" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0015" x="1054" y="552" width="53" height="78" frameX="-127" frameY="-146" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0016" x="171" y="1021" width="55" height="78" frameX="-127" frameY="-146" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0017" x="1054" y="630" width="53" height="78" frameX="-127" frameY="-146" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0018" x="1054" y="708" width="53" height="78" frameX="-127" frameY="-146" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0019" x="923" y="940" width="53" height="79" frameX="-127" frameY="-145" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0020" x="976" y="940" width="50" height="79" frameX="-131" frameY="-145" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0021" x="1005" y="161" width="48" height="79" frameX="-134" frameY="-145" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0022" x="802" y="848" width="47" height="81" frameX="-135" frameY="-142" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0023" x="849" y="848" width="47" height="81" frameX="-135" frameY="-142" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0024" x="896" y="848" width="47" height="81" frameX="-135" frameY="-141" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0025" x="958" y="0" width="47" height="81" frameX="-135" frameY="-141" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0026" x="958" y="81" width="47" height="81" frameX="-135" frameY="-141" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0027" x="958" y="162" width="47" height="81" frameX="-135" frameY="-140" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0028" x="958" y="0" width="47" height="81" frameX="-135" frameY="-140" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0029" x="958" y="81" width="47" height="81" frameX="-135" frameY="-139" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0030" x="958" y="243" width="47" height="81" frameX="-135" frameY="-139" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0031" x="1005" y="0" width="49" height="81" frameX="-133" frameY="-139" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0032" x="618" y="940" width="67" height="80" frameX="-125" frameY="-137" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0033" x="1054" y="0" width="53" height="79" frameX="-129" frameY="-138" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0034" x="0" y="1021" width="56" height="79" frameX="-129" frameY="-137" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0035" x="1054" y="79" width="52" height="79" frameX="-129" frameY="-136" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0036" x="1054" y="158" width="51" height="79" frameX="-129" frameY="-135" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0037" x="1054" y="237" width="52" height="79" frameX="-129" frameY="-135" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0038" x="1054" y="316" width="51" height="79" frameX="-129" frameY="-135" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0039" x="1054" y="0" width="53" height="79" frameX="-129" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0040" x="56" y="1021" width="56" height="79" frameX="-129" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0041" x="1054" y="395" width="52" height="79" frameX="-129" frameY="-134" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0042" x="1054" y="158" width="51" height="79" frameX="-129" frameY="-133" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0043" x="226" y="1021" width="56" height="75" frameX="-133" frameY="-133" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0044" x="449" y="848" width="95" height="88" frameX="-130" frameY="-116" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0045" x="0" y="940" width="75" height="81" frameX="-130" frameY="-120" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0046" x="75" y="940" width="75" height="81" frameX="-130" frameY="-120" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0047" x="150" y="940" width="76" height="81" frameX="-130" frameY="-120" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0048" x="685" y="940" width="77" height="80" frameX="-129" frameY="-120" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0049" x="226" y="940" width="75" height="81" frameX="-130" frameY="-119" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0050" x="680" y="848" width="79" height="82" frameX="-129" frameY="-119" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0051" x="762" y="940" width="84" height="80" frameX="-129" frameY="-119" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0052" x="301" y="940" width="75" height="81" frameX="-130" frameY="-119" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0053" x="376" y="940" width="79" height="81" frameX="-130" frameY="-119" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0054" x="846" y="940" width="77" height="80" frameX="-129" frameY="-118" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0055" x="455" y="940" width="80" height="81" frameX="-133" frameY="-118" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0056" x="535" y="940" width="83" height="81" frameX="-130" frameY="-118" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0057" x="0" y="1100" width="73" height="58" frameX="-128" frameY="-140" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0058" x="440" y="1021" width="68" height="73" frameX="-119" frameY="-127" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0059" x="282" y="1021" width="56" height="74" frameX="-128" frameY="-124" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0060" x="1054" y="786" width="51" height="74" frameX="-128" frameY="-123" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0061" x="1054" y="860" width="50" height="74" frameX="-129" frameY="-122" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0062" x="1054" y="934" width="51" height="74" frameX="-128" frameY="-122" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0063" x="338" y="1021" width="51" height="74" frameX="-128" frameY="-121" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0064" x="389" y="1021" width="51" height="74" frameX="-128" frameY="-121" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0065" x="508" y="1021" width="50" height="73" frameX="-128" frameY="-120" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0066" x="1162" y="67" width="47" height="66" frameX="-129" frameY="-125" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0067" x="929" y="1021" width="59" height="68" frameX="-126" frameY="-122" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0068" x="988" y="1021" width="55" height="68" frameX="-126" frameY="-122" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0069" x="865" y="1021" width="64" height="69" frameX="-126" frameY="-121" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0070" x="1043" y="1021" width="59" height="68" frameX="-126" frameY="-121" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0071" x="1107" y="0" width="55" height="68" frameX="-128" frameY="-121" frameWidth="357" frameHeight="271" />
+<SubTexture name="transform0072" x="609" y="1021" width="81" height="72" frameX="-123" frameY="-115" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0000" x="690" y="1021" width="123" height="72" frameX="-95" frameY="-114" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0001" x="1162" y="173" width="24" height="24" frameX="-150" frameY="-142" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0002" x="648" y="700" width="77" height="101" frameX="-131" frameY="-94" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0003" x="209" y="848" width="155" height="90" frameX="-86" frameY="-100" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0004" x="1162" y="133" width="56" height="40" frameX="-150" frameY="-142" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0005" x="336" y="279" width="323" height="255" frameX="-30" frameY="-12" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0006" x="0" y="548" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0007" x="0" y="279" width="336" height="269" frameX="-25" frameY="-3" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0008" x="217" y="548" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0009" x="365" y="0" width="336" height="273" frameX="-23" frameY="0" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0010" x="434" y="548" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0011" x="701" y="304" width="217" height="149" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0012" x="0" y="700" width="216" height="148" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0013" x="701" y="0" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0014" x="701" y="304" width="217" height="149" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0015" x="216" y="700" width="216" height="148" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0016" x="701" y="0" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0017" x="701" y="304" width="217" height="149" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0018" x="216" y="700" width="216" height="148" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0019" x="701" y="0" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0020" x="701" y="304" width="217" height="149" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0021" x="216" y="700" width="216" height="148" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0022" x="701" y="0" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0023" x="701" y="304" width="217" height="149" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0024" x="216" y="700" width="216" height="148" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0025" x="701" y="0" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0026" x="701" y="304" width="217" height="149" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0027" x="216" y="700" width="216" height="148" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0028" x="701" y="0" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0029" x="701" y="453" width="217" height="149" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0030" x="432" y="700" width="216" height="148" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0031" x="701" y="152" width="217" height="152" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+<SubTexture name="roar0032" x="701" y="304" width="217" height="149" frameX="-114" frameY="-74" frameWidth="357" frameHeight="271" />
+</TextureAtlas>

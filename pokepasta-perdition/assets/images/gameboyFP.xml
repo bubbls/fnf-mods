@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameboyFP.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gb0000" x="2" y="2" width="392" height="479"/>
+	<SubTexture name="gb0001" x="2" y="2" width="392" height="479"/>
+	<SubTexture name="gb0002" x="396" y="2" width="391" height="477" frameX="0" frameY="0" frameWidth="392" frameHeight="479"/>
+	<SubTexture name="gb0003" x="396" y="2" width="391" height="477" frameX="0" frameY="0" frameWidth="392" frameHeight="479"/>
+</TextureAtlas>

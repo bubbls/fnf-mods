@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="prologue_menu.png">
+<SubTexture name="idle0000" x="1381" y="0" width="692" height="796" frameX="-35" frameY="-77" frameWidth="800" frameHeight="875" />
+<SubTexture name="idle0001" x="690" y="0" width="691" height="800" frameX="-35" frameY="-77" frameWidth="800" frameHeight="875" />
+<SubTexture name="idle0002" x="0" y="0" width="690" height="801" frameX="-35" frameY="-77" frameWidth="800" frameHeight="875" />
+<SubTexture name="idle0003" x="0" y="801" width="692" height="795" frameX="-35" frameY="-77" frameWidth="800" frameHeight="875" />
+</TextureAtlas>

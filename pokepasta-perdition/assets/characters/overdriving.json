@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				96,
+				106
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gr-overdrive",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "glitchy-red",
+	"flip_x": false,
+	"healthbar_colors": [
+		119,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

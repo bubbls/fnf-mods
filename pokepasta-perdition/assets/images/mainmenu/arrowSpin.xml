@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrowSpin.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow0000" x="2" y="2" width="62" height="97" frameX="-1" frameY="0" frameWidth="72" frameHeight="97"/>
+	<SubTexture name="arrow0001" x="2" y="2" width="62" height="97" frameX="-1" frameY="0" frameWidth="72" frameHeight="97"/>
+	<SubTexture name="arrow0002" x="66" y="2" width="65" height="90" frameX="-1" frameY="-6" frameWidth="72" frameHeight="97"/>
+	<SubTexture name="arrow0003" x="66" y="2" width="65" height="90" frameX="-1" frameY="-6" frameWidth="72" frameHeight="97"/>
+	<SubTexture name="arrow0004" x="133" y="2" width="71" height="72" frameX="-1" frameY="-21" frameWidth="72" frameHeight="97"/>
+	<SubTexture name="arrow0005" x="133" y="2" width="71" height="72" frameX="-1" frameY="-21" frameWidth="72" frameHeight="97"/>
+	<SubTexture name="arrow0006" x="2" y="101" width="72" height="82" frameX="0" frameY="-14" frameWidth="72" frameHeight="97"/>
+	<SubTexture name="arrow0007" x="2" y="101" width="72" height="82" frameX="0" frameY="-14" frameWidth="72" frameHeight="97"/>
+	<SubTexture name="arrow Blank0000" x="76" y="101" width="2" height="3"/>
+</TextureAtlas>

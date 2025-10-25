@@ -1,0 +1,59 @@
+{
+	"name": "redwood",
+	"image": "dialogue/redwood-portrait",
+	"position": {180, 184},
+	"animations": {
+		{
+			"name": "talk",
+			"anim": "normal",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "pissed",
+			"anim": "pissed",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "shocked",
+			"anim": "shocked",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "normal2",
+			"anim": "normal2",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "frowning",
+			"anim": "frowning",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "normal3",
+			"anim": "normal3",
+			"offsets": {0, 0},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+	},
+	"scale": 4,
+	"no_antialiasing": false,
+	"alpha": 1,
+	"inactive_alpha": 0.5
+}

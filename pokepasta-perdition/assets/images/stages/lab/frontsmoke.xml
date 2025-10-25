@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frontsmoke.png">
+<SubTexture name="idle0000" x="0" y="0" width="156" height="97" frameX="-72" frameY="0" frameWidth="240" frameHeight="160" />
+<SubTexture name="idle0001" x="0" y="0" width="156" height="97" frameX="-72" frameY="0" frameWidth="240" frameHeight="160" />
+<SubTexture name="idle0002" x="156" y="0" width="156" height="97" frameX="-72" frameY="0" frameWidth="240" frameHeight="160" />
+<SubTexture name="idle0003" x="156" y="0" width="156" height="97" frameX="-72" frameY="0" frameWidth="240" frameHeight="160" />
+<SubTexture name="idle0004" x="0" y="97" width="156" height="97" frameX="-72" frameY="0" frameWidth="240" frameHeight="160" />
+<SubTexture name="idle0005" x="0" y="97" width="156" height="97" frameX="-72" frameY="0" frameWidth="240" frameHeight="160" />
+<SubTexture name="idle0006" x="156" y="97" width="156" height="97" frameX="-72" frameY="0" frameWidth="240" frameHeight="160" />
+<SubTexture name="idle0007" x="156" y="97" width="156" height="97" frameX="-72" frameY="0" frameWidth="240" frameHeight="160" />
+</TextureAtlas>

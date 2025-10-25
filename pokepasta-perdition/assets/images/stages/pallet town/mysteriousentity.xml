@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mysteriousentity.png">
+<SubTexture name="spawn0000" x="54" y="55" width="25" height="10" frameX="-10" frameY="-27" frameWidth="56" frameHeight="51" />
+<SubTexture name="spawn0001" x="0" y="0" width="60" height="55" frameX="0" frameY="0" frameWidth="56" frameHeight="51" />
+<SubTexture name="spawn0002" x="60" y="36" width="32" height="12" frameX="-5" frameY="-25" frameWidth="56" frameHeight="51" />
+<SubTexture name="spawn0003" x="0" y="0" width="60" height="55" frameX="0" frameY="0" frameWidth="56" frameHeight="51" />
+<SubTexture name="spawn0004" x="54" y="65" width="26" height="10" frameX="-10" frameY="-27" frameWidth="56" frameHeight="51" />
+<SubTexture name="spawn0005" x="0" y="0" width="60" height="55" frameX="0" frameY="0" frameWidth="56" frameHeight="51" />
+<SubTexture name="spawn0006" x="0" y="55" width="54" height="28" frameX="-3" frameY="-13" frameWidth="56" frameHeight="51" />
+<SubTexture name="fly20000" x="60" y="0" width="43" height="36" frameX="-9" frameY="-8" frameWidth="56" frameHeight="51" />
+</TextureAtlas>

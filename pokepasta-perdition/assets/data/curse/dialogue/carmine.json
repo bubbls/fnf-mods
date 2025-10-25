@@ -1,0 +1,102 @@
+{
+	"name": "carmine",
+	"image": "dialogue/carmine-portrait",
+	"position": {
+		990, 
+		136
+	},
+	"animations": {
+		{
+			"name": "talk",
+			"anim": "normal",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "shocked",
+			"anim": "shocked",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "scream1",
+			"anim": "scream1",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "scream2",
+			"anim": "scream2",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "scream3",
+			"anim": "scream3",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "yelling",
+			"anim": "yelling",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "death",
+			"anim": "death",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+		{
+			"name": "scared",
+			"anim": "scared",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+	},
+	"scale": 5,
+	"no_antialiasing": false,
+	"alpha": 1,
+	"inactive_alpha": 0
+}

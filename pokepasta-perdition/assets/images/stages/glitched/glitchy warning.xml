@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitchy warning.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dont miss message0000" x="10" y="10" width="164" height="72"/>
+	<SubTexture name="dont miss message0001" x="184" y="10" width="164" height="72"/>
+	<SubTexture name="dont miss message0002" x="10" y="92" width="164" height="72"/>
+	<SubTexture name="dont miss message0003" x="184" y="92" width="164" height="72"/>
+	<SubTexture name="dont miss message0004" x="10" y="174" width="164" height="72"/>
+	<SubTexture name="dont miss message0005" x="184" y="174" width="164" height="72"/>
+	<SubTexture name="dont miss message0006" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0007" x="184" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0008" x="10" y="338" width="164" height="72"/>
+	<SubTexture name="dont miss message0009" x="184" y="338" width="164" height="72"/>
+	<SubTexture name="dont miss message0010" x="10" y="420" width="164" height="72"/>
+	<SubTexture name="dont miss message0011" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0012" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0013" x="184" y="420" width="164" height="72"/>
+	<SubTexture name="dont miss message0014" x="10" y="502" width="164" height="72"/>
+	<SubTexture name="dont miss message0015" x="184" y="502" width="164" height="72"/>
+	<SubTexture name="dont miss message0016" x="10" y="584" width="164" height="72"/>
+	<SubTexture name="dont miss message0017" x="184" y="584" width="164" height="72"/>
+	<SubTexture name="dont miss message0018" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0019" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0020" x="10" y="666" width="164" height="72"/>
+	<SubTexture name="dont miss message0021" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0022" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0023" x="10" y="666" width="164" height="72"/>
+	<SubTexture name="dont miss message0024" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0025" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0026" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0027" x="10" y="256" width="164" height="72"/>
+	<SubTexture name="dont miss message0028" x="10" y="256" width="164" height="72"/>
+</TextureAtlas>

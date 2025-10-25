@@ -1,0 +1,41 @@
+{
+	"storyName": "Pokemon Strangled Red",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"cartImage": "Strangled Red",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Prologue",
+			"steven",
+			[
+				86,
+				0,
+				0
+			]
+		],
+		[
+			"Strangled",
+			"steven",
+			[
+				86,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Pokemon Strangled Red"
+}

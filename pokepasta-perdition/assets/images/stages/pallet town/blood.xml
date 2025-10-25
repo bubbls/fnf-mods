@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blood.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floor blood0000" x="10" y="10" width="36" height="7"/>
+	<SubTexture name="floor blood0001" x="10" y="10" width="36" height="7"/>
+	<SubTexture name="floor blood0002" x="56" y="10" width="36" height="7"/>
+	<SubTexture name="floor blood0003" x="56" y="10" width="36" height="7"/>
+	<SubTexture name="floor blood0004" x="10" y="27" width="36" height="7"/>
+	<SubTexture name="floor blood0005" x="10" y="27" width="36" height="7"/>
+	<SubTexture name="floor blood0006" x="56" y="27" width="36" height="7"/>
+	<SubTexture name="floor blood0007" x="56" y="27" width="36" height="7"/>
+	<SubTexture name="floor blood0008" x="10" y="44" width="36" height="7"/>
+	<SubTexture name="floor blood0009" x="10" y="44" width="36" height="7"/>
+	<SubTexture name="floor blood0010" x="56" y="44" width="36" height="7"/>
+	<SubTexture name="floor blood0011" x="56" y="44" width="36" height="7"/>
+	<SubTexture name="floor blood0012" x="10" y="61" width="36" height="7"/>
+	<SubTexture name="floor blood0013" x="10" y="61" width="36" height="7"/>
+	<SubTexture name="floor blood0014" x="56" y="61" width="36" height="7"/>
+	<SubTexture name="floor blood0015" x="56" y="61" width="36" height="7"/>
+	<SubTexture name="floor blood0016" x="10" y="10" width="36" height="7"/>
+	<SubTexture name="floor blood0017" x="10" y="10" width="36" height="7"/>
+</TextureAtlas>

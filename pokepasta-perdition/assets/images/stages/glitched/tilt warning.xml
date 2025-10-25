@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tilt warning.png">
+<SubTexture name="tilt0000" x="0" y="74" width="53" height="23" frameX="-12" frameY="-13" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0001" x="53" y="74" width="53" height="23" frameX="-10" frameY="-14" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0002" x="53" y="74" width="53" height="23" frameX="-13" frameY="-12" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0003" x="0" y="97" width="53" height="23" frameX="-12" frameY="-14" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0004" x="78" y="0" width="50" height="32" frameX="-13" frameY="-10" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0005" x="53" y="97" width="53" height="23" frameX="-12" frameY="-13" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0006" x="0" y="0" width="78" height="49" frameX="0" frameY="0" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0007" x="0" y="49" width="55" height="25" frameX="-10" frameY="-12" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0008" x="128" y="0" width="54" height="23" frameX="-14" frameY="-13" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0009" x="128" y="23" width="53" height="23" frameX="-11" frameY="-15" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0010" x="55" y="49" width="56" height="25" frameX="-10" frameY="-12" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0011" x="128" y="23" width="53" height="23" frameX="-10" frameY="-13" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0012" x="0" y="74" width="53" height="23" frameX="-12" frameY="-14" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0013" x="53" y="74" width="53" height="23" frameX="-12" frameY="-12" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0014" x="53" y="74" width="53" height="23" frameX="-13" frameY="-14" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0015" x="53" y="74" width="53" height="23" frameX="-12" frameY="-13" frameWidth="74" frameHeight="45" />
+<SubTexture name="tilt0016" x="0" y="0" width="78" height="49" frameX="0" frameY="0" frameWidth="74" frameHeight="45" />
+</TextureAtlas>

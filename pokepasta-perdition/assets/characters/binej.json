@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "binej idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "binej down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "binej right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				263,
+				123
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "binej up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				152,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "binej left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/binej",
+	"position": [
+		0,
+		-220
+	],
+	"healthicon": "binej",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		229,
+		162
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,422 @@
+{
+	{
+		"character": "empty", 
+		"anim": "idle", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "There's recently been a mass number of disappearences in lavender town", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "empty", 
+		"anim": "idle", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "The cause has not been identified yet after months of research from the other poke centers.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "empty", 
+		"anim": "idle", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "The retired Trainer Red, now a professor,", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "empty", 
+		"anim": "idle", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Has a duty to conduct research on this mysterious plague and find a way to help stop the disappearances from happening.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "normal3", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "I don't get it, this doesn't make any sense..", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "normal2", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "How does a group of civillians just vanish into thin air", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "normal2", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "I hope the answer to this mystery is nearby.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "normal2", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "-Clink-", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "shocked", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "-Smash-", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "pissed", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "...", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "shocked", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "What was that...", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "idle", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Who's there!", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "empty", 
+		"anim": "idle", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Red quickly ran towards the Pokecenter out of curiosity..", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "empty", 
+		"anim": "idle", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "But what Red doesn't know is that today will be his last.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "shocked", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Hey kid, what the hell are you doing here alone!", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "talk", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Stay back!", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "talk", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Please...", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "frowning", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Kid whats wrong?", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "talk", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "I don't want to hurt anyone!", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "shocked", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "PLEASE GET OUT OF MY HEAD!", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "idle", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Kid what has gotten into you..?", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "scared", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "GHOST: You will do what I say.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "scared", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "GHOST: Even if.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "scream1", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "GHOST: It costs.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "scream2", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "GHOST: Your own.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "scream3", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "GHOST: Life.", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "carmine", 
+		"anim": "yelling", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Im sorry...", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	},
+	{	
+		"character": "redwood", 
+		"anim": "pissed", 
+		
+		"textbox": "normal",
+		"textboxAnim": "normal",
+		
+		"text": "Things have gotten way more interesting...", 
+		"font": "PKMN RBYGSC.ttf",
+		"music": "freakyMenu",
+		
+		"textSize": 40,
+		
+		"talkSound": "dialogue"
+	}
+}

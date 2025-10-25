@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="strangled_menu.png">
+<SubTexture name="idle0000" x="0" y="0" width="735" height="798" frameX="-68" frameY="-81" frameWidth="800" frameHeight="875" />
+<SubTexture name="idle0001" x="735" y="0" width="737" height="797" frameX="-63" frameY="-82" frameWidth="800" frameHeight="875" />
+<SubTexture name="idle0002" x="1472" y="0" width="735" height="797" frameX="-68" frameY="-82" frameWidth="800" frameHeight="875" />
+<SubTexture name="idle0003" x="0" y="798" width="735" height="796" frameX="-66" frameY="-83" frameWidth="800" frameHeight="875" />
+</TextureAtlas>

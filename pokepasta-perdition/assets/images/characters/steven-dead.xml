@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="steven-dead.png">
+<SubTexture name="snap0000" x="0" y="0" width="72" height="82" frameX="-40" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0001" x="0" y="0" width="72" height="82" frameX="-40" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0002" x="72" y="0" width="75" height="82" frameX="-40" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0003" x="72" y="0" width="75" height="82" frameX="-40" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0004" x="147" y="0" width="77" height="82" frameX="-40" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0005" x="147" y="0" width="77" height="82" frameX="-40" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0006" x="0" y="82" width="79" height="82" frameX="-40" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0007" x="0" y="82" width="79" height="82" frameX="-40" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0008" x="79" y="82" width="79" height="82" frameX="-41" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0009" x="79" y="82" width="79" height="82" frameX="-41" frameY="-32" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0010" x="224" y="0" width="82" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0011" x="224" y="0" width="82" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0012" x="0" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0013" x="0" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0014" x="83" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0015" x="83" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0016" x="83" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0017" x="166" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0018" x="166" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0019" x="166" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0020" x="166" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0021" x="166" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0022" x="166" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0023" x="166" y="164" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0024" x="306" y="0" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0025" x="306" y="81" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0026" x="306" y="81" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+<SubTexture name="snap0027" x="306" y="81" width="83" height="81" frameX="-41" frameY="-33" frameWidth="125" frameHeight="126" />
+</TextureAtlas>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boyfriend_Blue.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf blue down0000" x="2" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0001" x="2" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0002" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0003" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0004" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0005" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0006" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0007" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0008" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0009" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0010" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0011" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0012" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue down0013" x="301" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue miss down0000" x="2" y="2" width="297" height="189"/>
+	<SubTexture name="bf blue miss down0001" x="600" y="2" width="297" height="189" frameX="0" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0002" x="600" y="2" width="297" height="189" frameX="0" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0003" x="899" y="2" width="297" height="189" frameX="-2" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0004" x="899" y="2" width="297" height="189" frameX="-2" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0005" x="1198" y="2" width="297" height="189" frameX="-2" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0006" x="1198" y="2" width="297" height="189" frameX="-2" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0007" x="1497" y="2" width="297" height="189" frameX="-2" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0008" x="1497" y="2" width="297" height="189" frameX="-2" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0009" x="2" y="193" width="297" height="189" frameX="-2" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0010" x="2" y="193" width="297" height="189" frameX="-2" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0011" x="2" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0012" x="2" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss down0013" x="2" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue idle0000" x="301" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0001" x="301" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0002" x="600" y="193" width="297" height="189" frameX="0" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0003" x="600" y="193" width="297" height="189" frameX="0" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0004" x="899" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0005" x="899" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0006" x="1198" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0007" x="1198" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0008" x="1497" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0009" x="1497" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0010" x="1497" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0011" x="1497" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0012" x="1497" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue idle0013" x="1497" y="193" width="297" height="189" frameX="-1" frameY="0" frameWidth="298" frameHeight="189"/>
+	<SubTexture name="bf blue left0000" x="2" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0001" x="2" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0002" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0003" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0004" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0005" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0006" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0007" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0008" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0009" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0010" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0011" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0012" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue left0013" x="301" y="384" width="297" height="189"/>
+	<SubTexture name="bf blue miss left0000" x="2" y="384" width="297" height="189" frameX="-2" frameY="0" frameWidth="297" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0001" x="600" y="384" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0002" x="600" y="384" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0003" x="899" y="384" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0004" x="899" y="384" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0005" x="1198" y="384" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0006" x="1198" y="384" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0007" x="1497" y="384" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0008" x="1497" y="384" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0009" x="2" y="575" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0010" x="2" y="575" width="297" height="189" frameX="-1" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0011" x="2" y="575" width="297" height="189" frameX="0" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0012" x="2" y="575" width="297" height="189" frameX="0" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0013" x="2" y="575" width="297" height="189" frameX="0" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue miss left0014" x="2" y="575" width="297" height="189" frameX="0" frameY="0" frameWidth="299" frameHeight="189"/>
+	<SubTexture name="bf blue right0000" x="301" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0001" x="301" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0002" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0003" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0004" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0005" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0006" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0007" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0008" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0009" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0010" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0011" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0012" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue right0013" x="600" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue miss right0000" x="301" y="575" width="297" height="189"/>
+	<SubTexture name="bf blue miss right0001" x="899" y="575" width="297" height="189" frameX="-5" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0002" x="899" y="575" width="297" height="189" frameX="-5" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0003" x="1198" y="575" width="297" height="189" frameX="-2" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0004" x="1198" y="575" width="297" height="189" frameX="-2" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0005" x="1497" y="575" width="297" height="189" frameX="-2" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0006" x="1497" y="575" width="297" height="189" frameX="-2" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0007" x="2" y="766" width="297" height="189" frameX="-2" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0008" x="2" y="766" width="297" height="189" frameX="-2" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0009" x="301" y="766" width="297" height="189" frameX="-2" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0010" x="301" y="766" width="297" height="189" frameX="-2" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0011" x="301" y="766" width="297" height="189" frameX="-1" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0012" x="301" y="766" width="297" height="189" frameX="-1" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue miss right0013" x="301" y="766" width="297" height="189" frameX="-1" frameY="0" frameWidth="302" frameHeight="189"/>
+	<SubTexture name="bf blue up0000" x="600" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0001" x="600" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0002" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0003" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0004" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0005" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0006" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0007" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0008" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0009" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0010" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0011" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0012" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue up0013" x="899" y="766" width="297" height="189"/>
+	<SubTexture name="bf blue miss up0000" x="600" y="766" width="297" height="189" frameX="-4" frameY="0" frameWidth="297" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0001" x="1198" y="766" width="297" height="189" frameX="-14" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0002" x="1198" y="766" width="297" height="189" frameX="-14" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0003" x="1497" y="766" width="297" height="189" frameX="0" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0004" x="1497" y="766" width="297" height="189" frameX="0" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0005" x="2" y="957" width="297" height="189" frameX="-16" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0006" x="2" y="957" width="297" height="189" frameX="-16" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0007" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0008" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0009" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0010" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0011" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0012" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0013" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0014" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+	<SubTexture name="bf blue miss up0015" x="301" y="957" width="297" height="189" frameX="-10" frameY="0" frameWidth="313" frameHeight="189"/>
+</TextureAtlas>

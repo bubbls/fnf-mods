@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="missingenergy.png">
+<SubTexture name="idle0000" x="0" y="0" width="260" height="148" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name="idle0001" x="260" y="0" width="260" height="148" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name="idle0002" x="0" y="148" width="260" height="148" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name="idle0003" x="260" y="148" width="260" height="148" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name="idle0004" x="0" y="296" width="260" height="148" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+<SubTexture name="idle0005" x="260" y="296" width="260" height="148" frameX="0" frameY="0" frameWidth="256" frameHeight="144" />
+</TextureAtlas>

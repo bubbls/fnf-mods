@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gr-overdriven.png">
+<SubTexture name="idle0000" x="0" y="0" width="40" height="88" frameX="-42" frameY="-26" frameWidth="125" frameHeight="126" />
+<SubTexture name="idle0001" x="40" y="0" width="40" height="88" frameX="-42" frameY="-26" frameWidth="125" frameHeight="126" />
+<SubTexture name="idle0002" x="80" y="0" width="39" height="88" frameX="-43" frameY="-26" frameWidth="125" frameHeight="126" />
+<SubTexture name="idle0003" x="119" y="0" width="40" height="88" frameX="-42" frameY="-26" frameWidth="125" frameHeight="126" />
+<SubTexture name="idle0004" x="159" y="0" width="42" height="88" frameX="-40" frameY="-26" frameWidth="125" frameHeight="126" />
+<SubTexture name="idle0005" x="0" y="88" width="41" height="88" frameX="-41" frameY="-26" frameWidth="125" frameHeight="126" />
+</TextureAtlas>

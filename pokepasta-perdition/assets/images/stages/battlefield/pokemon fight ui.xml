@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pokemon fight ui.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pokemon fight glitch0000" x="10" y="10" width="160" height="48"/>
+	<SubTexture name="pokemon fight glitch0001" x="10" y="10" width="160" height="48"/>
+	<SubTexture name="pokemon fight glitch0002" x="10" y="68" width="160" height="48"/>
+	<SubTexture name="pokemon fight glitch0003" x="10" y="68" width="160" height="48"/>
+	<SubTexture name="pokemon fight glitch0004" x="10" y="126" width="160" height="48"/>
+	<SubTexture name="pokemon fight glitch0005" x="10" y="126" width="160" height="48"/>
+	<SubTexture name="pokemon fight glitch0006" x="10" y="184" width="160" height="48"/>
+	<SubTexture name="pokemon fight glitch0007" x="10" y="184" width="160" height="48"/>
+	<SubTexture name="pokemon fight intro0000" x="10" y="242" width="160" height="48"/>
+	<SubTexture name="pokemon fight intro0001" x="10" y="242" width="160" height="48"/>
+	<SubTexture name="pokemon fight reg0000" x="10" y="184" width="160" height="48"/>
+	<SubTexture name="pokemon fight reg0001" x="10" y="184" width="160" height="48"/>
+</TextureAtlas>

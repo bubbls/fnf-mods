@@ -1,0 +1,25 @@
+{
+	"name": "carmine",
+	"image": "dialogue/carmine-portrait",
+	"position": {
+		1990, 
+		136
+	},
+	"animations": {
+		{
+			"name": "idle",
+			"anim": "normal",
+			"offsets": {
+				0,
+				0
+			},
+			"fps": 24,
+			"loops": false,
+			"flipX": false
+		},
+	},
+	"scale": 1,
+	"no_antialiasing": false,
+	"alpha": 1,
+	"inactive_alpha": 0
+}

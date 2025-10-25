@@ -1,0 +1,33 @@
+{
+	"storyName": "Pokemon Creepy Black",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"cartImage": "CreepyBlack",
+	"weekBefore": "week1-strangledred",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Curse",
+			"carmine",
+			[
+				255,
+				95,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Pokemon Creepy Black",
+	"hiddenUntilUnlocked": false
+}

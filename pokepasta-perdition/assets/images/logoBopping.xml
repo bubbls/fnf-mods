@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBopping.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logobop0000" x="2" y="2" width="1326" height="717"/>
+	<SubTexture name="logobop0001" x="2" y="2" width="1326" height="717"/>
+	<SubTexture name="logobop0002" x="1330" y="2" width="1263" height="692" frameX="-31" frameY="-13" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0003" x="1330" y="2" width="1263" height="692" frameX="-31" frameY="-13" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0004" x="2595" y="2" width="1243" height="685" frameX="-41" frameY="-17" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0005" x="2595" y="2" width="1243" height="685" frameX="-41" frameY="-17" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0006" x="2" y="721" width="1232" height="681" frameX="-46" frameY="-19" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0007" x="2" y="721" width="1232" height="681" frameX="-46" frameY="-19" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0008" x="2" y="721" width="1232" height="681" frameX="-46" frameY="-19" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0009" x="2" y="721" width="1232" height="681" frameX="-46" frameY="-19" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0010" x="2" y="721" width="1232" height="681" frameX="-46" frameY="-19" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0011" x="2" y="721" width="1232" height="681" frameX="-46" frameY="-19" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0012" x="1236" y="721" width="1224" height="678" frameX="-51" frameY="-20" frameWidth="1326" frameHeight="717"/>
+	<SubTexture name="logobop0013" x="1236" y="721" width="1224" height="678" frameX="-51" frameY="-20" frameWidth="1326" frameHeight="717"/>
+</TextureAtlas>
